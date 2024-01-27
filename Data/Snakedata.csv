@@ -1,0 +1,1324 @@
+species,DateOfObs,method,observer,AliveorDea,DOR,air_temp_f,sub_temp_f,body_temp_,pit,pit_id,weight_g,length_cm,sex,age,recapture,num_subcau,num_rattle,SFD,DNA
+American Bullfrog,6/27/2019 14:34,active search,,alive,no,,,,No,,,,,,no,,,,
+American Bullfrog,6/17/2019 19:38,active search,,,,,,,No,,,,,,,,,,
+Gopher Snake,5/19/2020,driving,cf,alive,no,77,99,101,yes,3D6.1D596DF682,141,72,male,adult,no,,,no,no
+Gopher Snake,6/21/2022,driving,cf,alive,no,75,100,98,yes,3D9.1A4FA106E8,342,97,male,adult,no,0,0,no,no
+Gopher Snake,7/24/2020,driving,cf,alive,no,74,98,97,yes,3D6.1D59A00D09,600,121,male,adult,no,,,no,no
+Gopher Snake,6/12/2019 16:29,driving,cf,alive,no,70,98,97,yes,3D6.00184A5F94,173,82,male,adult,no,,,,
+Gopher Snake,9/22/2020,incidental,NS,alive,no,80,96,96,yes,3D6.1D59A00D1D,181,83,female,adult,no,,,no,no
+Gopher Snake,6/4/2019 23:32,driving,cf,alive,no,76,96,95,yes,3D6.1D5980480F,214,81,unknown ,adult ,no,,,,
+Gopher Snake,5/18/2021,driving,cf,alive,no,70,96,95,no, ,361,91.7,female,adult,no,0,0,no,no
+Gopher Snake,9/9/2021,driving,cf,alive,no,87,95,95,yes,3D9.1A4FA106C4,125,75.5,female,adult,no,0,0,no,no
+Gopher Snake,5/19/2020,driving,cf,alive,no,75,89,95,yes,3D6.1D59804851,235,85,male,adult,no,,,no,no
+Gopher Snake,5/18/2020,incidental,NGS,alive,no,70,95,94,yes,3D6.1D59ABD1C6,330,90,female,adult,no,,,no,no
+Gopher Snake,5/20/2021,driving,cf,alive,no,62,92,94,yes,3D9.1A4FA106F2,427,105.1,male,adult,no,0,0,no,no
+Gopher Snake,6/12/2019 17:02,driving,cf,alive,no,72,88,94,yes,3DD.003D4501BB,360,99,male,adult,no,,,,
+Gopher Snake,6/5/2019 21:21,driving,cf,alive,no ,78,114,93,yes,3D6.00184A5F63,267,92,male,adult,no,,,,
+Gopher Snake,5/15/2019 22:06,driving,cf,alive,no,76,93,91,yes,3D6.001184A5F45,284,86,male,,,,,,
+Gopher Snake,5/27/2020,driving,cf,alive,no,71,80,91,no, ,0,0,unknown,neonate,no,,,no,no
+Gopher Snake,5/18/2020,driving,cf,alive,no,79,92,90,yes,3D6.1D59804825,230,88,male,adult,no,,,no,no
+Gopher Snake,5/18/2020,driving,cf,alive,no,79,92,90,yes,3D6.1D59804868,173,80,male,adult,no,,,no,no
+Gopher Snake,10/8/2020,driving,cf,alive,no,80,88,88,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,5/16/2022,driving,cf,alive,no,75,85,88,yes,3D9.1A4FA10711,305,101.6,female,adult,no,0,0,no,no
+Gopher Snake,6/24/2022,driving,TS,alive,no,74,89,87,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,5/27/2022,incidental,TS,alive,no,72,89,87,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,5/19/2021,driving,cf,alive,no,75,87,87,yes,3D9.1A4FA10710,398,106.2,male,adult,no,0,0,no,no
+Gopher Snake,6/8/2022,driving,cf,alive,no,73,87,87,yes,3D9.1A4FA106D5,268,89.2,female,adult,no,0,0,no,no
+Gopher Snake,9/29/2020,incidental,NS,alive,no,68,82,86,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,9/29/2020,incidental,NS,alive,no,62,77,86,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/12/2019 16:33,driving,cf,alive,no,70,88,85,yes,3D6.1D596E5762,133,78,male,adult,no,,,,
+Gopher Snake,5/15/2019 22:40,driving,cf,alive,no,75,85,85,yes,3D6.00184A5F3F,231,93,male,,,,,,
+Gopher Snake,4/21/2020,incidental,cf,alive,no,68,80,85,yes,3D6.1D59804860,304,89,female,adult,no,,,no,no
+Gopher Snake,5/14/2020,driving,cf,alive,no,62,80,85,yes,3D6.1D59ABD1D3,255,94,male,adult,no,,,no,no
+Gopher Snake,5/13/2020,incidental,NGS,alive,no,62,80,85,yes,3D6.1D59804847,379,96,male,adult,no,,,no,no
+Gopher Snake,5/14/2019 16:10,driving ,cf,alive,n,70,93,84,yes,3DD.003D4501C3,244,82,f,,,,,,
+Gopher Snake,9/21/2021,driving,BP,alive,no,68,90,84,yes,3D6.1533E8C12B,17,43.1,male,juv,no,0,0,yes,no
+Gopher Snake,8/17/2020,driving,NS,alive,no,84,86,84,yes,3D6.1D59A00D20,236,90,male,adult,no,,,no,no
+Gopher Snake,6/4/2020,active search,NS,alive,no,80,84,84,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/12/2019 15:17,driving,cf,alive,no ,70,81,84,yes,3D6.00184A5F81,349,90,female,adult,no,,,,
+Gopher Snake,5/13/2020,incidental,NGS,alive,no,62,80,84,yes,3D6.1D59ABD208,218,86,male,adult,no,,,no,no
+Gopher Snake,5/24/2022,driving,TS,alive,no,69,79,84,yes,3D9.1A4FA10635,197,64,male,adult,no,0,0,no,no
+Gopher Snake,5/19/2020,active search,cf,alive,no,79,78,84,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/11/2019 15:32,driving,cf,alive,no,68,77,84,yes,3D6.00184A5F9A,336,99,male,adult,no,,,,
+Gopher Snake,5/18/2023 16:41,driving,TS,alive,no,78,85,83,yes,3D9.1A4FA10699,241,99,female,adult,no,0,0,no,no
+Gopher Snake,10/15/2019 20:36,driving,cf,alive,no,64,76,83,yes,3DD.003D4501D0,318,94,female,adult,no,,,,
+Gopher Snake,6/12/2019 15:09,driving,cf,alive ,no ,70,71,83,yes,3D6.00184A5F98,347,105,male,adult ,no,,,,
+Gopher Snake,6/21/2022,driving,TS,alive,no,69,83,82,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,5/14/2020,driving,cf,alive,no,62,75,82,yes,3D6.1D59ABD1BE,247,88,male,adult,no,,,no,no
+Gopher Snake,5/6/2020,driving,cf,alive,no,77,96,81,yes,3DD.003D4501BE,461,110,male,adult,no,,,no,no
+Gopher Snake,5/20/2021,driving,BP,alive,no,70,95,81,yes,3D9.1A4FA10642,245,82.5,unknown,adult,no,0,0,yes,no
+Gopher Snake,5/17/2022,driving,TS,alive,no,79,80,81,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,5/23/2022,driving,cf,alive,no,53,79,81,yes,3D9.1A4FA106E1,317,81,male,adult,no,0,0,no,no
+Gopher Snake,5/20/2020,incidental,NS,alive,no,66,77,81,yes,3D6.1D59ABD215,289,96,male,adult,no,,,no,no
+Gopher Snake,10/3/2019 20:33,driving,cf,alive,no,68,76,81,yes,3D6.1D59804848,160,79,male,adult,no,,,,
+Gopher Snake,9/23/2019 17:31,driving,cf,alive,no,67,75,81,yes,3D6.1D596E572F,12,31,too small,juv,no,,,,
+Gopher Snake,6/2/2021,driving,cf,alive,no,66,75,81,yes,3D9.1A4FA106B9,278,95.9,male,adult,no,0,0,no,no
+Gopher Snake,9/24/2019 18:45,pit fall trap,cf,alive,no,68,72,81,yes,3D6.1D596E570C,28,42,too small,juv,no,,,,
+Gopher Snake,6/13/2019 20:09,driving,cf,alive,no,81,104,80,yes,3D6.00184A5F7C,209,84,male,adult,no,,,,
+Gopher Snake,5/26/2021,driving,BP,alive,no,70,101,80,yes,3D9.1A4FA10605,291,94.4,female,adult,no,0,0,yes,no
+Gopher Snake,5/18/2022,driving,Grainne,alive,no,72,82,80,no, ,337,92.4,unknown,adult,no,0,0,no,no
+Gopher Snake,5/17/2022,incidental,Grainne,alive,no,0,80,80,yes,3D9.1A4FA10698B,373,77.7,male,adult,no,0,0,no,no
+Gopher Snake,5/27/2020,driving,cf,alive,no,69,77,80,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/11/2019 14:51,driving,cf ,alive,no ,63,75,80,yes,3DD.003D4501FE,427,108,male,adult,no,,,,
+Gopher Snake,5/27/2020,driving,cf,alive,no,69,74,80,yes,3D6.1D59804866,351,91,female,adult,yes,,,no,no
+Gopher Snake,5/18/2020,incidental,NGS,alive,no,68,69,80,yes,3D6.1D59ABD1D2,292,96,male,adult,no,,,no,no
+Gopher Snake,9/24/2019 18:03,active search,cf,alive,no,68,66,80,No,,13,30,too small,juv,no,,,,
+Gopher Snake,5/20/2021,driving,cf,alive,no,64,80,79,yes,3D9.1A4FA10700,334,97.7,male,adult,no,0,0,no,no
+Gopher Snake,6/27/2019 15:51,driving,cf,alive,no ,77,79,79,No,,,,,,no,,,,
+Gopher Snake,6/7/2019 0:04,driving,cf,alive,no,72,79,79,yes,3D6.1D596E5708,17,34,,juv,no,,,,
+Gopher Snake,5/27/2020,active search,NGS,alive,no,78,102,78,yes,3D6.1D59ABD1FC,297,92,male,adult,no,,,no,no
+Gopher Snake,5/18/2022,driving,TS,alive,no,71,86,78,yes,3D9.1A4FA10700,338,93,male,adult,yes,0,0,no,no
+Gopher Snake,6/6/2019 23:49,driving,cf,alive,no,72,80,78,yes,3D6.00184A5F8C,239,90,male,adult,no,,,,
+Gopher Snake,5/17/2022,driving,cf,alive,no,66,80,78,yes,3D9.1A4FA1070F,340,84.9,male,adult,no,0,0,no,no
+Gopher Snake,5/19/2022,incidental,Grainne,alive,no,0,74,78,yes,3D9.1A4FA10638,265,91.5,male,adult,no,0,0,no,no
+Gopher Snake,5/25/2021,active search,BP,alive,no,63,85,77,yes,3D9.1A4FA10607,235,85.7,male,adult,no,0,0,yes,no
+Gopher Snake,5/17/2022,driving,TS,alive,no,74,81,77,yes,3D6.1533E8C1BD,12,26,female,juv,no,0,0,no,no
+Gopher Snake,5/16/2019 20:45,driving,cf,alive,no,70,80,77,yes,3DD.003D4501B3,355,98,male,,,,,,
+Gopher Snake,5/16/2019 20:40,driving,cf,alive,no,70,80,77,yes,3DD.003D4501B8,309,103,male,,,,,,
+Gopher Snake,5/18/2020,active search,NGS,alive,no,68,78,77,yes,3D6.1D59ABD1BB,387,97,female,adult,no,,,no,no
+Gopher Snake,10/1/2021,driving,BP,alive,no,76,89,76,yes,3D9.1A4FA105ED,232,89.7,male,adult,no,0,0,no,no
+Gopher Snake,8/14/2020,driving,NS,alive,no,80,80,76,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/5/2019 15:39,driving,cf,alive,no ,68,74,76,No,,16,33,,juvinile ,no,,,,
+Gopher Snake,6/6/2019 23:15,driving,cf,alive,no,78,76,75,yes,3D6.00184A5F60,169,83,male,adult,no,,,,
+Gopher Snake,6/13/2023 18:23,incidental,TS,alive,no,67,76,75,yes,3D6.1533E8C09B,433,113.3,female,adult,no,0,0,no,no
+Gopher Snake,9/2/2020,driving,NS,alive,no,70,75,75,no, ,13,31,unknown,unknown,no,,,no,no
+Gopher Snake,5/16/2019 16:06,driving,cf,alive,no,70,73,75,yes,3D6.1D596E572A,143,83,f,,,,,,
+Gopher Snake,5/26/2020,incidental,NGS,alive,no,68,72,75,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/8/2022,driving,cf,alive,no,68,72,75,yes,3D9.1A4FA1070C,353,94.8,female,adult,no,0,0,no,no
+Gopher Snake,5/16/2019 16:46,driving,cf,alive,no,67,69,75,yes,3D6.00184A5F8A,368,101,f,,,,,,
+Gopher Snake,5/14/2020,incidental,NGS,alive,no,63,77,74,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,5/18/2020,incidental,NS,alive,no,68,69,74,yes,3D6.1D59ABD214,305,105,female,adult,no,,,no,no
+Gopher Snake,5/27/2020,incidental,NGS,alive,no,68,68,73,yes,3D6.1D59ABD1F8,345,102,female,adult,no,,,no,no
+Gopher Snake,5/20/2020,driving,cf,alive,no,60,73,72,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/6/2019 23:35,driving,cf,dead,yes,70,72,72,No,,,,,,no,,,,
+Gopher Snake,6/4/2019 14:26,driving,cf,alive,no,61,72,72,yes,3D6.00184A5F88,460,103,unknown,adult,no,,,,
+Gopher Snake,6/11/2020,active search,NS,alive,no,64,70,72,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,9/24/2021,driving,cf,alive,no,60,70,72,yes,3D6.1533E8C161,75,51.8,female,juv,no,0,0,no,no
+Gopher Snake,9/23/2019 16:09,driving,cf,alive,no,67,75,71,yes,3D6.1D596E5747,13,33,too small ,juv,no,,,,
+Gopher Snake,6/6/2022,incidental,Gr inne,alive,no,0,75,71,yes,3D9.1A4FA10650,506,91,female,adult,no,0,0,no,no
+Gopher Snake,5/18/2023 15:49,driving,TS,alive,no,68,70,71,yes,1A4FA1064D,315,105,female,adult,no,0,0,no,no
+Gopher Snake,5/20/2020,driving,cf,alive,no,58,70,71,yes,3DD.003D4501F4,383,98,female,adult,no,,,no,no
+Gopher Snake,6/2/2021,driving,cf,alive,no,66,69,71,yes,3D9.1A4FA106EB,206,81,male,adult,no,0,0,no,no
+Gopher Snake,6/6/2019 17:15,incidental,JS,Alive,,82,90,70,,,,,,,,,,,
+Gopher Snake,10/19/2020,incidental,cf,alive,no,72,68,68,no, ,0,0,unknown,neonate,no,,,no,no
+Gopher Snake,9/26/2022,driving,cf,alive,no,75,67,68,yes,3D6.1533E8C18B,14,28,unknown,neonate,no,0,0,no,no
+Gopher Snake,9/23/2021,driving,cf,alive,no,58,66,67,yes,3D6.1533E8C184,30,31.9,male,neonate,no,0,0,no,no
+Gopher Snake,9/22/2021,driving,cf,alive,no,61,61,63,yes,3D9.1A4FA106CD,208,86.3,female,adult,no,0,0,no,no
+Gopher Snake,5/27/2022,incidental,TS,alive,no,69,61,62,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,5/25/2022,incidental,Gr inne,alive,no,0,101,0,yes,3D9.1A4FA10661,338,88.5,male,unknown,no,0,0,no,no
+Gopher Snake,9/21/2021,driving,BP,dead,yes,66,97,0,no, ,18,34.6,unknown,juv,no,0,0,yes,no
+Gopher Snake,7/14/2023 15:13,driving,TS,alive,no,84,92,0,yes,3D6.1533E8C0BA,13,43.4,male,YOY,no,0,0,no,no
+Gopher Snake,7/17/2023 16:15,driving,TS,alive,no,85,89,0,yes,3D6.1533E8C0DC,177,106,female,adult,no,0,0,no,no
+Gopher Snake,6/1/2022,driving,TS,alive,no,76,89,0,yes,3D9.1A4FA105FD,318,89.5,female,adult,no,0,0,no,no
+Gopher Snake,5/17/2022,driving,Ts,alive,no,74,85,0,yes,3D9.1A4FA106EF,317,91.5,male,adult,no,0,0,no,no
+Gopher Snake,5/12/2023 20:00,driving,TS,alive,no,70,85,0,yes,3D6.1D59804848,277,110,unknown,adult,yes,0,0,no,no
+Gopher Snake,5/17/2022,driving,TS,dead,yes,76,82,0,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,6/20/2023 18:20,driving,TS,alive,no,66,82,0,yes,3D6.1533E8C0D2,385,105.8,male,adult,no,0,0,no,no
+Gopher Snake,5/24/2022,driving,Grainne,alive,no,0,80,0,yes,3D9.1A4FA106DB,260,86.5,male,adult,no,0,0,no,no
+Gopher Snake,5/17/2022,driving,TS,alive,no,74,77,0,yes,3D9.1A4FA106DE,206,81,male,adult,no,0,0,no,no
+Gopher Snake,5/19/2022,driving,TS,alive,no,74,72,0,yes,3D9.1A4FA10628,367,95.5,male,adult,no,0,0,no,no
+Gopher Snake,9/14/2021,driving,BP,dead,yes,66,64,0,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,5/6/2020,pit fall trap,cf,alive,no,77,48,0,no, ,11,29,unknown,juv,no,,,no,no
+Gopher Snake,5/12/2023 14:40,active search,Flipped under large rock. Very cold. Picked up before accurate body temp could be measured,alive,no,66,43,0,no,,,,unknown,YOY,no,0,0,no,no
+Gopher Snake,8/25/2020,incidental,Jl,alive,no,93,0,0,no,3D6.1D59A008F1,245,92,female,adult,no,,,no,no
+Gopher Snake,7/6/2020,incidental,JL,alive,no,83,0,0,yes,3d6.1533c700e4,220,0,female,adult,yes,,,no,no
+Gopher Snake,6/8/2022,driving,TS,dead,yes,83,0,0,no, ,178,68.5,unknown,adult,no,0,0,no,no
+Gopher Snake,8/9/2023 18:16,reported,TS,alive,no,83,0,0,yes,3D6.1533E8C09E,114,92.1,male,adult,no,0,0,no,no
+Gopher Snake,6/4/2020,incidental,NS,dead,yes,82,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,6/4/2020,incidental,NS,dead,yes,81,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,10/4/2021,driving,cf,dead,yes,81,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,7/18/2023 15:46,driving,Liz Bergin,alive,no,81,0,0,yes,3D6.1533E8C0CD,188,94.9,female,adult,no,0,0,no,no
+Gopher Snake,5/18/2020,incidental,NGS,dead,yes,80,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,10/5/2022,driving,cf,alive,no,80,0,0,yes,3D6.1533E8C0D4,27,33.5,male,neonate,no,0,0,no,no
+Gopher Snake,9/20/2023 17:00,incidental,em,alive,no,80,0,0,yes,3D6.1533E8C0A5,15,40.8,female,neonate,no,0,0,no,no
+Gopher Snake,5/28/2020,incidental,NS,dead,yes,78,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,6/6/2023 20:57,incidental,TS,alive,no,78,0,0,yes,3D6.1533E8C0E5,307,104.6,male,adult,no,0,0,no,no
+Gopher Snake,10/7/2020,driving,cf,alive,no,77,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Gopher Snake,6/10/2022,incidental,TS,alive,no,77,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,5/28/2020,incidental,NGS,alive,no,76,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,6/1/2022,driving,TS,alive,no,76,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,5/6/2020,incidental,NGS,alive,no,75,0,0,yes,3D6.1D59ABD1C7,531,110,female,adult,no,,,no,no
+Gopher Snake,5/27/2021,reported,BP,alive,no,75,0,0,yes,3D9.1A4FA10623,301,104.3,male,adult,no,0,0,yes,no
+Gopher Snake,8/10/2022,reported,TS,alive,no,75,0,0,yes,3D6.1533E8C0A6,36,48.5,male,juv,no,0,0,no,no
+Gopher Snake,5/25/2021,driving,cf,alive,no,74,0,0,yes,3D9.1A4FA10712,309,101,male,adult,no,0,0,no,no
+Gopher Snake,5/25/2021,driving,cf,alive,no,74,0,0,yes,3D6.1D596E5762,236,95.7,male,adult,yes,0,0,no,no
+Gopher Snake,6/21/2022,driving,TS,dead,yes,74,0,0,no, ,20,39,unknown,juv,no,0,0,no,no
+Gopher Snake,5/27/2020,incidental,JL,alive,no,73,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,5/23/2023 20:17,driving,Mahala,alive,no,73,0,0,yes,3D6.1533E8C106,415,99.8,male,adult,no,0,0,no,no
+Gopher Snake,6/11/2020,incidental,NS,dead,yes,71,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,4/30/2020,incidental,NGS,alive,no,71,0,0,yes,3D6.1D59ABD1BC,347,95,male,adult,no,,,no,no
+Gopher Snake,5/22/2023 21:15,driving,TS,dead,yes,71,0,0,no,,,,unknown,adult,no,0,0,no,no
+Gopher Snake,7/22/2020,incidental,NS,dead,yes,70,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,10/4/2022,driving,cf,alive,no,70,0,0,yes,3D9.1A4FA1066A,100,64.6,female,adult,no,0,0,no,no
+Gopher Snake,8/31/2023 15:41,incidental,Liz Bergin,alive,no,70,0,0,no,,,,unknown,adult,no,0,0,no,no
+Gopher Snake,5/21/2020,driving,cf,alive,no,69,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,6/23/2020,driving,cf,alive,no,69,0,0,yes,3D6.1533C70106,256,96,male,adult,no,,,no,no
+Gopher Snake,6/12/2023 18:30,reported,TS,alive,no,69,0,0,yes,3D6.1533E8C0E7,417,95.8,female,adult,no,0,0,no,no
+Gopher Snake,10/16/2023 19:58,driving,cf,alive,no,69,0,0,yes,3D6.1533E8C14D,21,36.1,male,juv,no,0,0,no,no
+Gopher Snake,6/12/2023 18:30,reported,TS,alive,no,69,0,0,yes,3D9.1A4FA106F2,461,108.9,male,adult,yes,0,0,no,no
+Gopher Snake,9/23/2021,driving,cf,dead,yes,68,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Gopher Snake,9/23/2021,driving,cf,dead,yes,68,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Gopher Snake,9/28/2022,driving,TS,dead,yes,68,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,10/3/2022,driving,cf,alive,no,68,0,0,yes,3D9.1A4FA1068B,188,83.2,male,adult,no,0,0,no,no
+Gopher Snake,5/23/2023 16:54,driving,Erin,dead,no,68,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/23/2023 16:07,incidental,Mahala,alive,no,67,0,0,yes,3d6.1533e8c0a0,59,51.5,female,juv,no,0,0,no,no
+Gopher Snake,5/28/2020,incidental,NGS,alive,no,66,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,5/28/2020,pit fall trap,NGS,alive,no,66,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,8/29/2023 13:20,driving,Liz Bergin,alive,no,66,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,4/29/2020,incidental,NGS,alive,no,64,0,0,yes,3D6.1D59804811,300,100,male,adult,no,,,no,no
+Gopher Snake,5/28/2021,driving,cf,dead,yes,64,0,0,no, ,0, ,unknown,juv,no,0,0,no,no
+Gopher Snake,5/25/2022,driving,cf,alive,no,64,0,0,yes,3D9.1A4FA106CF,270,79.7,female,adult,no,0,0,no,no
+Gopher Snake,5/25/2022,driving,Cf,alive,no,64,0,0,yes,3D9.1A4FA1066D,443,111.8,male,adult,no,0,0,no,no
+Gopher Snake,9/6/2023 15:58,driving,cf,alive,no,64,0,0,yes,3D6.1533E8C0AD,44,89.9,male,juv,no,0,0,no,no
+Gopher Snake,10/19/2023 18:57,driving,cf,dead,yes,62,0,0,no,,18,33,male,neonate,no,0,0,no,no
+Gopher Snake,9/9/2020,incidental,NS,dead,yes,61,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,10/18/2022,driving,DH,alive,no,61,0,0,yes,3D9.1A4FA10664,262,102,female,adult,no,0,0,no,no
+Gopher Snake,10/18/2022,driving,cf,alive,no,61,0,0,yes,3D6.1533E8C0A7,88,62.4,male,juv,no,0,0,no,no
+Gopher Snake,5/12/2022,incidental,Grainne,alive,no,61,0,0,yes,3D9.1A4FA1066B,318,82.1,male,adult,yes,0,0,no,no
+Gopher Snake,10/5/2023 18:14,driving,cf,dead,yes,61,0,0,no,,22,38.1,male,juv,no,0,0,no,no
+Gopher Snake,10/5/2023 18:18,driving,cf,alive,no,61,0,0,no,,16,35.2,male,neonate,no,0,0,no,no
+Gopher Snake,5/24/2021,driving,FM,alive,no,60,0,0,yes,3D9.1A4FA10687,277,96.5,male,adult,no,0,0,yes,no
+Gopher Snake,10/3/2022,driving,cf,alive,no,60,0,0,yes,3D6.1533E8C0C3,25,33.2,male,neonate,no,0,0,no,no
+Gopher Snake,9/23/2021,driving,cf,dead,yes,58,0,0,no, ,13,30.2,female,neonate,no,0,0,no,no
+Gopher Snake,10/16/2023 18:52,driving,cf,alive,no,58,0,0,no,,22,36.5,female,juv,no,0,0,no,no
+Gopher Snake,10/16/2023 18:56,driving,cf,alive,no,58,0,0,no,,13,35.2,male,neonate,no,0,0,no,no
+Gopher Snake,5/25/2022,driving,cf,alive,no,57,0,0,yes,3D6.1533E8C193,28,38.5,male,juv,no,0,0,no,no
+Gopher Snake,9/21/2023 17:37,driving,cf,alive,no,56,0,0,yes,3D6.1533E8C0E4,11,29.1,female,neonate,no,0,0,no,no
+Gopher Snake,10/28/2020,driving,cf,dead,yes,53,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,10/28/2020,driving,cf,dead,yes,53,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,10/22/2020,incidental,cf,alive,no,50,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,10/31/2023 19:18,driving,Liz Bergin,alive,no,45,0,0,no,,,,unknown,adult,no,0,0,no,no
+Gopher Snake,7/29/2020,active search,NS,dead,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,9/30/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,5/19/2020,active search,NGS,alive,no,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,5/21/2020,active search,cf,alive,no,0,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,10/19/2020,driving,cf,dead,yes,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,10/5/2020,driving,cf,dead,yes,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,5/29/2020,driving,cf,dead,yes,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,11/2/2020,driving,cf,dead,yes,0,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,5/18/2020,driving,Marion clement,alive,no,0,0,0,yes,3D6.1D59ABD1D9,152,74.5,female,adult,no,,,no,no
+Gopher Snake,6/2/2020,driving,Mac,alive,no,0,0,0,yes, ,0,0,male,adult,no,,,no,no
+Gopher Snake,5/12/2020,driving,cf,dead,yes,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,5/11/2020,driving,jl,alive,no,0,0,0,yes,3D6.1D59804846,417,107,female,adult,no,,,no,no
+Gopher Snake,8/24/2020,driving,NS,alive,no,0,0,0,yes,3D6.1D59A008EF,294,91,female,adult,no,,,no,no
+Gopher Snake,5/11/2020,driving,mc,alive,no,0,0,0,yes,3D6.1D59804815,209,80,male,adult,no,,,no,no
+Gopher Snake,5/19/2020,driving,CF,alive,no,0,0,0,yes,3D6.1D59804868,173,80,male,adult,no,,,no,no
+Gopher Snake,9/2/2020,incidental,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,7/30/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,6/18/2020,incidental,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Gopher Snake,5/18/2020,incidental,NGS,alive,no,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Gopher Snake,9/17/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Gopher Snake,9/17/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Gopher Snake,9/15/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Gopher Snake,4/29/2020,incidental,NS,alive,no,0,0,0,no, ,300,100,male,adult,no,,,no,no
+Gopher Snake,4/30/2020,incidental,NS,alive,no,0,0,0,no, ,347,95,male,adult,no,,,no,no
+Gopher Snake,5/11/2020,incidental,MC,alive,no,0,0,0,no, ,209,80,male,adult,no,,,no,no
+Gopher Snake,6/11/2020,incidental,NS,alive,no,0,0,0,yes,3D6.1D5980485B,401,112,male,adult,no,,,no,no
+Gopher Snake,6/11/2020,incidental,NS,alive,no,0,0,0,yes,3DD.003BFB8197,347,98,male,adult,no,,,no,no
+Gopher Snake,5/26/2020,incidental,NS,alive,no,0,0,0,yes,3D6.1D59ABD1E8,236,94,male,adult,no,,,no,no
+Gopher Snake,5/18/2020,incidental,NS,alive,no,0,0,0,yes,3D6.1D59ABD1F1,180,72,male,adult,no,,,no,no
+Gopher Snake,5/20/2021,driving,cf,dead,yes,0,0,0,no, ,0, ,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/20/2021,driving,cf,dead,yes,0,0,0,no, ,0, ,unknown,unknown,no,0,0,no,no
+Gopher Snake,9/28/2021,driving,BP,dead,yes,0,0,0,no, ,24,41.6,unknown,juv,no,0,0,no,no
+Gopher Snake,10/26/2021,driving,cf,dead,yes,0,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,6/1/2021,driving,JE,alive,no,0,0,0,yes,3D9.1A4FA10673,289,95,female,adult,no,0,0,no,no
+Gopher Snake,5/26/2021,driving,JE,alive,no,0,0,0,yes,3D9.1A4FA1068A,209,89,male,adult,no,0,0,no,no
+Gopher Snake,7/5/2022,driving,Kayla Wilson,alive,no,0,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Gopher Snake,6/9/2022,driving,cf,dead,yes,0,0,0,no, , , ,unknown,YOY,no,0,0,no,no
+Gopher Snake,6/15/2022,driving,TS,alive,no,0,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,5/19/2022,driving,cf,dead,yes,0,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Gopher Snake,10/5/2022,driving,cf,dead,yes,0,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Gopher Snake,7/5/2022,driving,GO,dead,yes,0,0,0,no, , , ,unknown,YOY,no,0,0,no,no
+Gopher Snake,6/9/2022,incidental,Grainne,alive,no,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,6/2/2022,incidental,TS,alive,no,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,5/31/2022,incidental,GO,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,6/8/2022,driving,cf,alive,no,0,0,0,yes,3D9.1A4FA106CA,472,106.5,male,adult,no,0,0,no,no
+Gopher Snake,6/9/2022,driving,Kayla Wilson,alive,no,0,0,0,yes,3D9.1A4FA10668,227,86.7,male,adult,no,0,0,no,no
+Gopher Snake,5/25/2022,driving,Cf,alive,no,0,0,0,yes,3D9.1A4FA10654,202,81.8,male,adult,no,0,0,no,no
+Gopher Snake,5/31/2022,driving,TS,alive,no,0,0,0,yes,3D9.1A4FA1060C,358,93,male,adult,no,0,0,no,no
+Gopher Snake,5/24/2022,driving,(Plant crew recorded by TS),alive,no,0,0,0,yes,3D9.1A4FA10604,315,104,male,adult,no,0,0,no,no
+Gopher Snake,7/29/2022,driving,Kayla Wilson,alive,no,0,0,0,yes,3D9.1A4FA10643,254,70,female,adult,no,0,0,no,no
+Gopher Snake,4/27/2022,driving,GO,alive,no,0,0,0,yes,3D9.1A4F106C5,154,80,female,adult,no,0,0,no,no
+Gopher Snake,6/7/2022,incidental,Grainne,alive,no,0,0,0,yes,3D9.1A4FA10660,282,76.8,female,adult,no,0,0,no,no
+Gopher Snake,6/2/2022,incidental,Kayla,alive,no,0,0,0,yes,3D9.1A4FA1067D,176, ,male,adult,no,0,0,no,no
+Gopher Snake,4/27/2022,incidental,Gr inne,alive,no,0,0,0,yes,3D9.1A4FA1066B,293,86.5,male,adult,no,0,0,no,no
+Gopher Snake,5/25/2022,pit fall trap,cf,alive,no,0,0,0,yes,3D6.1533E8C165,32,44.8,male,juv,no,0,0,no,no
+Gopher Snake,5/3/2023 22:13,driving,cf,alive,no,0,0,0,yes,3D9.1A4FA10652,229,102.2,female,adult,no,0,0,no,no
+Gopher Snake,5/23/2023 0:36,driving,cf,alive,no,0,0,0,yes,3d6.1533e8c0b5,257,90.4,female,adult,no,0,0,no,no
+Gopher Snake,5/23/2023 1:01,driving,cf,alive,no,0,0,0,yes,3d6.1533e8c0ca,470,102.2,female,adult,no,0,0,no,no
+Gopher Snake,5/22/2023 15:18,driving,cf,alive,no,0,0,0,yes,3D6.1533E8C0D6,318,95.7,male,adult,no,0,0,no,no
+Gopher Snake,6/28/2023 17:47,driving,cf,alive,no,0,0,0,yes,3D6.1533E8C0BF,333,123,male,adult,no,0,0,no,no
+Gopher Snake,5/10/2023 21:32,driving,cf,alive,no,0,0,0,yes,3D9.1A4FA10684,,91,male,adult,no,0,0,no,no
+Gopher Snake,7/19/2023 15:42,driving,JB,alive,no,0,0,0,yes,3D6.1533E8C15C,213,96,unknown,adult,no,0,0,no,no
+Gopher Snake,5/17/2023 21:14,driving,JB,alive,no,0,0,0,yes,3D9.1A4FA10675,324,96.5,unknown,adult,no,0,0,no,no
+Gopher Snake,7/12/2023 14:16,driving,cf,alive,no,0,0,0,yes,3D6.1533E8C0E8,159,85,female,juv,no,0,0,no,no
+Gopher Snake,7/18/2023 14:07,incidental,TS,alive,no,0,0,0,yes,3D6.1533E8C0A1,33,58.6,male,juv,no,0,0,no,no
+Gopher Snake,6/28/2023 16:57,driving,cf,alive,no,0,0,0,yes,3D6.1533E8C0AE,111,89,male,juv,no,0,0,no,no
+Gopher Snake,5/1/2023 18:53,driving,cf,dead,yes,0,0,0,no,,,,unknown,juv,no,0,0,no,no
+Gopher Snake,5/22/2023 6:00,reported,TS,alive,no,0,0,0,yes,3D6.1533E8C0CC,11.79,35,male,YOY,no,0,0,no,no
+Gopher Snake,5/3/2023 22:16,driving,cf,alive,no,0,0,0,yes,3D9.1A4FA10664,301,118.1,female,adult,yes,0,0,no,no
+Gopher Snake,5/25/2023 17:15,driving,JB,alive,no,0,0,0,no,3D9.1A4FA10648,392,92,female,adult,yes,0,0,no,no
+Gopher Snake,5/22/2023 14:36,driving,cf,alive,no,0,0,0,yes,3D6.1533E8C0EF,267,83.6,female,adult,no,0,0,no,no
+Gopher Snake,5/30/2023 15:00,driving,CH,alive,no,0,0,0,yes,3D6.1533E8C0AA,108,75.8,male,adult,no,0,0,no,no
+Gopher Snake,6/7/2023 16:00,driving,"JB, CH",alive,no,0,0,0,yes,3D6.1533E8C0BC,365,115.1,male,adult,no,0,0,no,no
+Gopher Snake,5/30/2023 21:46,driving,TS,alive,no,0,0,0,yes,3D6.1533E8C156,416,113,male,adult,no,0,0,no,no
+Gopher Snake,5/31/2023 21:20,driving,JB,alive,no,0,0,0,yes,3D6.1533E8C0FA,438,95,unknown,adult,no,0,0,no,no
+Gopher Snake,6/1/2023 15:49,driving,JB,dead,yes,0,0,0,yes,3D6.1533E8C095,446,106.5,unknown,adult,no,0,0,no,no
+Gopher Snake,6/1/2023 2:45,pit fall trap,CH,alive,no,0,0,0,yes,3D6.1533E8C0B2,12.7,34.5,female,YOY,no,0,0,no,no
+Gopher Snake,8/2/2023 14:45,driving,DH,dead,yes,0,0,0,yes,3D9.1A4FA10623,435,109.3,male,adult,yes,0,0,no,no
+Gopher Snake,6/6/2023 15:04,incidental,Dimitri,alive,no,0,0,0,no,,,,unknown,juv,no,0,0,no,no
+Gopher Snake,9/5/2023 18:28,driving,cf,dead,yes,0,0,0,no,,,,unknown,juv,no,0,0,no,no
+Gopher Snake,6/29/2023 16:42,driving,JB,dead,yes,0,0,0,no,,,,unknown,juv,no,0,0,no,no
+Gopher Snake,6/6/2023 14:41,driving,Dimitri,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,9/29/2023 3:58,reported,cf,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,6/7/2023 16:05,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,6/7/2023 16:02,driving,JB and CH,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/23/2023 20:24,driving,Mahala,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/30/2023 15:00,driving,CH,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/1/2023 15:00,driving,Chandler Haut,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/30/2023 17:20,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/30/2023 17:43,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,5/23/2023 20:24,driving,Mahala,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Gopher Snake,6/11/2019 19:22,reported,range control,alive,no,0,0,0,yes,3D6.00184A5F55,265,90,male,adult,no,,,,
+Gopher Snake,9/13/2021 22:45,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10714,304,97.4,male,Adult,no,,,yes,no
+Gopher Snake,10/1/2021 22:34,DenCheck,BP,alive,no,0,0,0,yes,3D9.1A4FA105ED,232,89.7,male,Adult,no,59,,no,no
+Gopher Snake,10/7/2021 18:22,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C17B,27,31.5,female,neonate,no,,,no,
+Gopher Snake,4/7/2022 20:55,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106BC,249,85.5,male,Adult,no,Na,Na,no,no
+Gopher Snake,4/28/2022 20:31,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106DC,235,88.2,female,Adult,no,,,no,no
+Gopher Snake,5/31/2022 23:09,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106D7,348,91.7,female,Adult,no,,,no,no
+Gopher Snake,4/27/2022 17:32,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA1066B,293,70.5,male,Adult,no,,,no,
+Gopher Snake,4/28/2022 18:20,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4F106C5,154,68,female,Adult,no,,,no,no
+Gopher Snake,10/5/2023 23:08,DenCheck,Cf,alive,no,0,0,0,yes,99999,144,78.9,male,Juv,no,,,no,no
+Gopher Snake,10/5/2023 17:40,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C14E,138,72.9,male,Juv,no,,,no,no
+Gopher Snake,9/30/2019 21:21,driving,cf,dead,yes,60,86,,No,,69,57,,,no,,,,
+Gopher Snake,6/6/2019 23:58,driving,cf,dead,yes ,70,82,,No,,,,,,no,,,,
+Gopher Snake,7/13/2021,pit fall trap,cf,alive,no,84,,,yes,3D6.1533E8C1AA,35,38,male,juv,no,0,0,no,no
+Gopher Snake,7/22/2019 15:56,incidental,,Alive,,82,,,Yes,3D6.1D59804866,146,,,,,,,,
+Gopher Snake,9/1/2021,driving,cf,dead,yes,78,,,no, ,92,78.5,male,adult,no,0,0,yes,no
+Gopher Snake,7/3/2019 16:33,driving,abigal,alive,no,78,,,yes,3D6.00184A5F70,196,91,male,adult,no,,,,
+Gopher Snake,6/4/2019 23:29,driving,,dead,yes,76,,,No,,,,,,no,,,,
+Gopher Snake,6/23/2022,driving,TS,alive,no,75,,,no, , , ,unknown,adult,no,0,0,no,no
+Gopher Snake,6/7/2019 0:12,driving,cf,dead,yes,72,,,No,,,,,adult,no,,,,
+Gopher Snake,6/12/2019 17:22,driving,cf,dead,yes,72,,,No,,,,,adult,,,,,
+Gopher Snake,5/18/2022,incidental,Dave Hanson,dead,yes,70,,,no, ,263,86.2,unknown,adult,no,0,0,no,no
+Gopher Snake,5/15/2019 16:10,driving,cf,dead,,70,,,No,,331,100,unknown,,,,,,
+Gopher Snake,10/8/2019 19:04,driving,cf,dead,yes,64,,,No,,,,,adult,no,,,,
+Gopher Snake,10/8/2019 17:43,driving,cf,dead,yes,63,,,No,,,,,adult,no,,,,
+Gopher Snake,10/20/2021,driving,cf,dead,yes,58,,,no, , , ,unknown,neonate,no,0,0,no,no
+Gopher Snake,7/3/2018 15:25,driving,,,Y,,,,,,,,,,,,,,
+Gopher Snake,6/12/2019 14:52,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Gopher Snake,6/5/2019 22:31,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Gopher Snake,6/3/2019 18:19,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Gopher Snake,5/13/2019 15:48,driving,cf,alive,n,,,,,,,,,,,,,,
+Gopher Snake,6/7/2018 19:20,driving,CF,Alive,N,,,,,,,,,,,,,,
+Gopher Snake,6/13/2018 15:15,driving,,Alive,N,,,,,,,,,,,,,,
+Gopher Snake,5/13/2019 18:56,driving ,cf,dead,yes,,,,,,,,,,,,,,
+Gopher Snake,8/15/2019 15:39,incidental,cf,dead,no,,,,No,,,,,2 adult 1 juv,no,,,,
+Gopher Snake,8/15/2019 15:43,incidental,cf,alive,no ,,,,yes,3D6.1D5980482D,275,97,male,adult,no,,,,
+Gopher Snake,8/15/2019 15:42,incidental,cf,alive,no,,,,yes,3D6.1D59804834,236,82,female,adult,no,,,,
+Gopher Snake,8/15/2019 15:41,incidental,cf,alive,no,,,,yes,3D6.1D59804835,218,93,male,adult,no,,,,
+Gopher Snake,10/18/2018 22:02,incidental,Cf,Alive,N,,,,,,,,,,,,,,
+Gopher Snake,6/10/2019 16:47,incidental,,,,,,,yes,3D6.00184A5F85,245,78,female,adult,no,,,,
+Gopher Snake,7/10/2018 13:21,incidental,,Alive,N,,,,,,,,,,,,,,
+Gopher Snake,7/9/2019 14:26,driving,Shantell,Dead,Yes,,,,No,,,,,,,,,,
+Gopher Snake,7/3/2018 22:21,incidental,,dead,Y,,,,,,,,,,,,,,
+Gopher Snake,5/6/2019 19:50,active search ,cf,alive,n,,,,,,,,,,,,,,
+Great Basin Rattlesnake,6/16/2022,incidental,TS,alive,no,91,115,107,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,5/27/2020,active search,NGS,alive,no,79,101,98,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,5/13/2020,active search,cf,alive,no,60,80,96,yes,3D6.1D5980485A,275,64,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/9/2020,driving,cf,alive,no,65,98,95,yes,3D6.1D59804839,370,77.8,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/2/2020,active search,NS,alive,no,81,119,94,yes,3D6.1533C700E0,390,84,male,adult,no,21,14,no,no
+Great Basin Rattlesnake,6/4/2019 23:20,driving,cf,alive,no,76,95,93,No,,,,,,,,,,
+Great Basin Rattlesnake,5/26/2020,active search,cf,alive,no,75,93,93,yes,3D6.1D5980482F,293,66,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/2/2020,active search,NS,alive,no,81,130,92,yes,3D6.1533C700E7,215,63,female,adult,no,19,8,no,no
+Great Basin Rattlesnake,5/26/2020,active search,cf,alive,no,77,92,92,yes,3D6.1D59ABD1CE,214,56,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/7/2020,active search,NS,alive,no,87,90,92,yes,3D6.1533C700EC,473,80,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/3/2020,active search,cf,alive,no,73,89,92,yes,3D6.1D59ABD1F4,198,61,female,adult,yes,,,no,no
+Great Basin Rattlesnake,6/10/2020,active search,NS,alive,no,64,88,92,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,5/27/2020,active search,NGS,alive,no,75,81,92,yes,3D6.1D59ABD1BF,272,69,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/4/2020,active search,NS,alive,no,78,96,91,yes,3D6.1D59ABD206,0,0,unknown,adult,yes,,,no,no
+Great Basin Rattlesnake,5/4/2020,active search,cf,alive,no,62,93,91,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,70,88,91,yes,3D6.1D59ABD206,250,65,unknown,adult,yes,,,no,no
+Great Basin Rattlesnake,5/31/2022,driving,TS,alive,no,69,78,91,yes,3D6.1533E8C1A4,13,26,female,YOY,no,16,1,no,no
+Great Basin Rattlesnake,6/18/2020,active search,NS,alive,no,63,109,90,yes,3D6.1533C70119,351,72,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,70,103,90,yes,3D6.1533C700DF,292,69,male,adult,no,,,no,no
+Great Basin Rattlesnake,5/28/2020,active search,NGS,alive,no,80,94,90,yes,3D6.1D5980485C,382,71,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/2/2020,active search,NS,alive,no,82,98,89,yes,3D6.1533C7010E,243,62,female,adult,no,18,8,no,no
+Great Basin Rattlesnake,10/8/2019 18:58,driving,cf,alive,no,64,93,89,No,,,,,adult,,,,,
+Great Basin Rattlesnake,6/7/2022,incidental,Grainne,alive,no,0,91,89,yes,3D9.1A4FA10653,156,54.1,female,juv,no,18,6,no,yes
+Great Basin Rattlesnake,7/21/2020,active search,NS,alive,no,81,87,89,yes,3D6.1533C7012B,369,79,female,adult,no,19,10,no,no
+Great Basin Rattlesnake,6/25/2020,active search,NS,alive,no,74,84,89,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,7/2/2020,active search,NS,alive,no,82,83,89,yes,3D6.1533C700EF,287,74,male,adult,no,21,13,no,no
+Great Basin Rattlesnake,7/8/2022,driving,TS,alive,no,85,0,89,no, , , ,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,77,101,88,yes,3D6.1D59A008C7,294,72,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/1/2020,active search,cf,alive,no,79,88,88,yes,3D6.1D59ABD1F4,198,61,female,adult,yes,,,no,no
+Great Basin Rattlesnake,6/4/2020,active search,NS,alive,no,79,83,88,yes,3D6.1D59ABD216,104,48,male,juv,no,,,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,70,85,87,yes,3D6.1533C700D8,535,85,male,adult,no,,,no,no
+Great Basin Rattlesnake,5/27/2020,driving,cf,alive,no,71,83,87,yes,3D6.1D59804817,308,73,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/24/2020,active search,NS,alive,no,60,81,87,yes,3D6.1533C700DB,342,70,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/12/2020,active search,Ngs,alive,no,72,79,87,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,6/17/2020,active search,NS,alive,no,59,95,86,yes,3D6.1D59ABD1DC,234,56,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/25/2020,active search,NS,alive,no,76,92,86,yes,3D6.1533C70108,187,62,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/11/2020,active search,NS,alive,no,65,70,86,yes,3D6.1D5980482A,402,82,male,adult,no,,,no,no
+Great Basin Rattlesnake,10/1/2019 20:21,driving,cf,alive,no,,86,85,No,,,,,adult,,,,,
+Great Basin Rattlesnake,6/24/2020,active search,NS,alive,no,60,85,85,yes,3D6.1533C70128,204,63,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/30/2021,driving,cf,alive,no,70,84,85,yes,3D6.1533E8C187,29,35.9,female,juv,no,21,3,no,no
+Great Basin Rattlesnake,5/27/2020,active search,cf,alive,no,71,77,85,yes,3D6.1D59ABD20E,131,65,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/7/2020,active search,NS,alive,no,77,75,85,yes,3D6.1533C700E8,507,87,male,adult,no,23,14,no,no
+Great Basin Rattlesnake,5/24/2021,active search,cf,alive,no,55,70,85,yes,3D9.1A4FA105EE,399,77,female,adult,no,19,7,yes,yes
+Great Basin Rattlesnake,6/15/2020,active search,NS,alive,no,63,90,84,yes,3D6.1D59ABD1F3,0,0,unknown,adult,yes,,,no,no
+Great Basin Rattlesnake,5/4/2020,active search,NGS,alive,no,78,87,84,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,9/23/2021,active search,Cf,alive,no,65,81,84,yes,3D6.1533E8C18C,16,25.7,male,neonate,no,25,1,no,no
+Great Basin Rattlesnake,5/13/2020,active search,NGS,alive,no,61,80,84,no, ,0,0,male,juv,no,,,no,no
+Great Basin Rattlesnake,10/8/2019 18:47,driving,cf,alive,no,65,95,83,No,,,,,adult,,,,,
+Great Basin Rattlesnake,5/14/2020,active search,cf,alive,no,63,95,83,no, ,434,77,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/3/2020,active search,NS,alive,no,72,90,83,yes,3D6.1D5980482B,234,70,female,juv,no,,,no,no
+Great Basin Rattlesnake,6/2/2020,active search,NS,alive,no,85,85,83,yes,3D6.1D59ABD1E4,183,57,female,juv,no,,,no,no
+Great Basin Rattlesnake,7/19/2021,incidental,BP,alive,no,81,83,83,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,4/19/2022,incidental,TS,alive,no,65,80,83,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,5/12/2020,active search,cf,alive,no,73,79,83,no, ,583,87,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/20/2020,active search,NGS,alive,no,65,91,82,yes,3D6.1D59ABD1FF,143,56,female,juv,no,,,no,no
+Great Basin Rattlesnake,5/14/2020,incidental,NS,alive,no,66,86,82,yes,3D6.1D59ABD1BA,135,57,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/10/2022,driving,TS,alive,no,60,85,82,yes,3D6.1533E8C160,12,25.2,female,YOY,no,16,1,no,no
+Great Basin Rattlesnake,6/3/2020,active search,NS,alive,no,72,83,82,yes,3D6.1D59ABD1DA,170,56,female,adult,yes,,,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,74,81,82,yes,3D6.1533C70132,420,84,male,adult,no,,,no,no
+Great Basin Rattlesnake,10/3/2019 22:18,driving,cf,alive,no,69,78,82,No,,,,,adult,,,,,
+Great Basin Rattlesnake,6/25/2020,active search,NS,alive,no,76,76,82,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,6/3/2019 16:22,driving,cf,alive,no ,63,75,82,No,,,,,,,,,,
+Great Basin Rattlesnake,5/27/2020,active search,NGS,alive,no,75,92,81,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/25/2021,active search,BP,alive,no,66,80,81,yes,3D6.1533C700F1,446,77.5,male,adult,yes,24,9,no,yes
+Great Basin Rattlesnake,11/2/2020,active search,cf,alive,no,66,79,81,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/5/2021,active search,cf,alive,no,66,79,81,yes,3D9.1A4FA106A1,202,60.6,female,adult,no,0,0,no,no
+Great Basin Rattlesnake,9/23/2021,incidental,BP,alive,no,74,78,81,no, , , ,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,6/9/2020,active search,NS,alive,no,61,77,81,yes,3D6.1D59804858,272,65,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/9/2020,active search,NS,alive,no,61,77,81,yes,3D6.1D59804818,210,61,male,adult,no,,,no,no
+Great Basin Rattlesnake,10/3/2019 21:05,driving,cf,alive,no,,77,81,No,,,,,juv,,,,,
+Great Basin Rattlesnake,8/17/2020,active search,NS,alive,no,79,82,80,yes,3D6.1533C700FC,240,73,male,adult,no,23,10,no,no
+Great Basin Rattlesnake,8/8/2022,driving,Kayla/Grainne (processing info:TS),alive,no,0,82,80,yes,3D9.1A4FA106A6,446,77.5,male,adult,no,25,4,no,yes
+Great Basin Rattlesnake,5/18/2022,cover board,TS,alive,no,76,81,80,yes,3D9.1A4FA10702,259,65,female,adult,no,17,6,no,yes
+Great Basin Rattlesnake,5/26/2020,driving,cf,alive,no,66,80,80,yes,3D6.1D59804849,304,77,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/9/2020,active search,cf,alive,no,59,80,80,yes,3D6.1D5980480D,350,72.3,male,adult,no,,,no,no
+Great Basin Rattlesnake,5/13/2020,active search,NGS,alive,no,61,78,80,yes,3D6.1D59804832,230,61,male,juv,no,,,no,no
+Great Basin Rattlesnake,9/22/2021,active search,BP,alive,no,75,74,80,yes,3D9.1A4FA1062B,234,75.7,female,adult,no,20,10,no,yes
+Great Basin Rattlesnake,9/22/2021,active search,BP,alive,no,75,74,80,yes,3D9.1A4FA105EA,277,77.5,male,adult,no,24,14,no,yes
+Great Basin Rattlesnake,8/14/2020,driving,NS,alive,no,80,89,79,yes,3D6.1533700FA,175,64,male,adult,no,24,8,no,no
+Great Basin Rattlesnake,5/20/2020,active search,cf,alive,no,57,82,79,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,6/30/2020,active search,NS,alive,no,60,81,79,yes,3D6.1D59A008C7,300,72,male,adult,yes,,,no,no
+Great Basin Rattlesnake,9/10/2020,active search,NS,alive,no,72,76,79,yes,3D6.1D59ABD20B,272,62,female,adult,yes,16,8,no,no
+Great Basin Rattlesnake,10/3/2019 22:12,driving,cf,alive,no,69,76,79,No,,,,,adult,,,,,
+Great Basin Rattlesnake,9/9/2020,active search,NS,alive,no,62,77,78,yes,3D6.1D59A00D00,405,83,male,adult,no,20,0,no,no
+Great Basin Rattlesnake,9/30/2021,active search,BP,alive,no,65,64,78,no, , , ,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,5/12/2020,active search,cf,alive,no,71,92,77,no, ,550,87,male,adult,no,,,no,no
+Great Basin Rattlesnake,7/21/2020,driving,NS,alive,no,77,88,77,yes,3D6.1533C70116,222,70,male,adult,no,27,11,no,no
+Great Basin Rattlesnake,5/26/2021,driving,BP,alive,no,0,83,77,no, ,0, ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,6/2/2020,active search,NS,alive,no,78,78,76,yes,3D6.1D5980485A,286,66,male,adult,yes,,,no,no
+Great Basin Rattlesnake,5/16/2019 16:40,driving,cf,alive,no,68,78,76,No,,,,,,,,,,
+Great Basin Rattlesnake,6/10/2020,active search,NS,alive,no,59,67,76,yes,3D6.1D5980481E,266,66,male,adult,no,,,no,no
+Great Basin Rattlesnake,5/20/2020,active search,cf,alive,no,57,90,75,yes,3D6.1D59ABD1F4,198,61,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/20/2020,Telemetry,NGS,alive,no,65,68,75,no, ,0,0,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/6/2019 23:39,driving,cf,alive,no,70,73,74,No,,,,,juv,,,,,
+Great Basin Rattlesnake,5/25/2022,incidental,TS,alive,no,68,0,74,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,5/14/2020,active search,cf,alive,no,64,78,73,no, ,448,79.5,male,adult,no,,,no,no
+Great Basin Rattlesnake,4/30/2020,incidental,NGS,alive,no,71,70,72,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,11/2/2020,active search,cf,alive,no,66,71,71,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,6/9/2020,active search,NS,alive,no,61,62,71,yes,3D6.1D59804863,234,61,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/24/2021,active search,cf,alive,no,56,71,68,yes,3D6.1D59ABD20B,276,63.5,female,adult,yes,17,8,yes,no
+Great Basin Rattlesnake,5/24/2021,active search,cf,alive,no,57,70,68,yes,3D6.1533E8C12E,71,40.9,male,juv,no,22,7,yes,yes
+Great Basin Rattlesnake,9/28/2021,active search,BP,alive,no,71,68,68,no, , , ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,5/20/2020,active search,NGS,alive,no,54,64,68,yes,3D6.1D59ABD1FA,220,58,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/24/2021,active search,cf,alive,no,56,70,67,yes,3D9.1A4FA1064B,255,61.3,female,adult,no,19,6,yes,yes
+Great Basin Rattlesnake,11/2/2020,active search,cf,alive,no,66,66,67,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,5/20/2020,active search,cf,alive,no,57,70,66,yes,3D6.1D59ABD1E6,10,28,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,9/2/2020,driving,NS,alive,no,71,69,66,no, ,0,0,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/5/2023 14:41,reported,TS,alive,no,65,65,66,yes,3D6.1533E8C0D1,14,29,male,YOY,no,24,1,no,no
+Great Basin Rattlesnake,4/19/2022,active search,TS,alive,no,71,69,64,no, , , ,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,6/24/2021,active search,cf,alive,no,72,68,64,yes,3D9.1A4FA10618,418,78.8,female,adult,no,20,7,yes,yes
+Great Basin Rattlesnake,9/23/2021,active search,Cf,alive,no,65,60,62,yes,3D6.1533E8C1BF,10,21.8,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,6/24/2021,active search,cf,alive,no,73,71,61,yes,3D9.1A4FA1060F,297,70.9,female,adult,no,15,11,yes,yes
+Great Basin Rattlesnake,6/11/2020,active search,NS,alive,no,63,58,59,yes,3D6.1D5980484C,321,66,male,adult,no,,,no,no
+Great Basin Rattlesnake,4/18/2023 18:56,incidental,TS,alive,no,61,54,55,no,,,,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,4/28/2022,incidental,TS,alive,no,57,50,49,no, , , ,unknown,YOY,no,0,1,no,no
+Great Basin Rattlesnake,10/16/2020,incidental,Cf,alive,no,52,47,47,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,9/15/2021,incidental,BP,alive,no,54,43,45,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,4/28/2020,active search,NGS,alive,no,73,124,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,4/28/2020,active search,NGS,alive,no,73,107,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,6/30/2020,active search,cf,alive,no,60,100,0,yes,3D6.1D59A00D03,287,70,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/26/2020,active search,cf,alive,no,69,98,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,6/16/2023 16:37,active search,TS,alive,yes,71,92,0,no,,,,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,5/17/2022,driving,TS,alive,no,76,91,0,yes,3D9.1A4FA106B7,337,78.3,male,adult,no,23,7,no,no
+Great Basin Rattlesnake,6/16/2023 16:39,active search,TS,alive,no,72,91,0,yes,3D6.1533E8C0C7,203,63,female,adult,no,19,7,no,yes
+Great Basin Rattlesnake,4/29/2020,active search,cf,alive,no,78,90,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,10/1/2021,active search,BP,alive,no,73,89,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,10/1/2021,active search,BP,alive,no,73,89,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,6/16/2023 16:48,active search,TS,alive,no,72,87,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,10/1/2020,Telemetry,Cf, , ,71,85,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,8/4/2023 18:02,incidental,TS,alive,no,80,84,0,yes,3D6.1533E8C0AC,12,32,female,YOY,no,18,2,no,no
+Great Basin Rattlesnake,6/22/2022,driving,TS,alive,no,69,84,0,yes,3D9.1A4FA10671,396,74.5,female,adult,no,19,6,no,yes
+Great Basin Rattlesnake,5/9/2023 17:46,reported,TS,alive,no,74,82,0,yes,3D9.1A4FA10651,318,64.2,female,adult,no,17,6,no,yes
+Great Basin Rattlesnake,5/12/2020,active search,cf,alive,no,71,80,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,5/24/2022,driving,TS,alive,no,0,78,0,yes,3D9.1A4FA106E3,177,60.5,female,adult,no,17,8,no,yes
+Great Basin Rattlesnake,5/31/2023 15:40,active search,TS,alive,no,78,75,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,4/19/2022,incidental,TS,alive,no,69,73,0,no, , , ,unknown,YOY,no,0,0,no,no
+Great Basin Rattlesnake,6/28/2022,driving,TS,alive,no,70,68,0,yes,3D9.1A4FA1068D,118,56.4,female,adult,no,18,6,no,yes
+Great Basin Rattlesnake,4/19/2022,active search,TS,alive,no,60,68,0,no, , , ,unknown,YOY,no,0,0,no,no
+Great Basin Rattlesnake,6/16/2023 14:36,active search,TS,alive,no,0,66,0,yes,,,,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,6/24/2021,active search,BP,alive,no,64,59,0,yes,3D9.1A4FA10639,418,75.8,female,adult,no,18,6,yes,yes
+Great Basin Rattlesnake,9/4/2020,active search,NS,alive,no,89,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,8/3/2022,reported,TS,alive,no,86,0,0,yes,3D9.1A4FA106A9,259,66.5,female,adult,no,18,7,no,yes
+Great Basin Rattlesnake,8/3/2022,reported,TS,alive,no,86,0,0,yes,3D9.1A4FA10663,199,59.5,male,adult,no,23,8,no,yes
+Great Basin Rattlesnake,8/26/2020,active search,NS,alive,no,85,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,7/8/2020,active search,NS,alive,no,84,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,7/8/2020,active search,NS,alive,no,84,0,0,yes,3D6.1533C7010E,0,63,female,adult,yes,,,no,no
+Great Basin Rattlesnake,8/13/2021,reported,BP,alive,no,84,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,6/2/2020,active search,NS,alive,no,83,0,0,yes,3D6.1D59ABD20D,257,59,female,adults,no,,,no,no
+Great Basin Rattlesnake,4/29/2020,active search, ,alive,no,82,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,8/20/2020,incidental,NS,dead,yes,82,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,9/13/2023 20:32,reported,TS,alive,no,82,0,0,yes,3D9.1A4FD212BB,246,72.1,female,adult,no,17,5,no,no
+Great Basin Rattlesnake,8/26/2021,active search,BP,alive,no,81,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,8/26/2021,active search,BP,alive,no,81,0,0,yes,3D6.1533E8C138,8,19.5,unknown,neonate,no,27,1,no,no
+Great Basin Rattlesnake,7/13/2020,active search,NS,alive,no,79,0,0,yes,3D6.1533C7011A,429,86,male,adult,no,,,no,no
+Great Basin Rattlesnake,7/21/2021,incidental,BP,alive,no,79,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,8/9/2021,incidental,BP,alive,no,79,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,8/9/2021,incidental,BP,alive,no,79,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,7/13/2021,active search,BP,alive,no,79,0,0,yes,3D9.1A4FA106DD,217,70.5,male,adult,no,24,11,no,no
+Great Basin Rattlesnake,7/13/2021,active search,BP,alive,no,79,0,0,yes,3D91A4FA10709,195,67,female,adult,yes,19,5,no,no
+Great Basin Rattlesnake,7/13/2021,active search,BP,alive,no,79,0,0,yes,3D9.1A4FA106E0,337,82.5,male,adult,no,24,5,no,yes
+Great Basin Rattlesnake,6/1/2020,active search,NGS,alive,no,78,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,5/27/2020,active search,NGS,alive,no,78,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,7/14/2020,active search,NS,alive,no,78,0,0,yes,3D6.1533C700F6,178,66,male,adult,no,26,10,no,no
+Great Basin Rattlesnake,9/30/2020,incidental,Cf,alive,no,78,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,8/25/2021,incidental,BP,alive,no,77,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,8/25/2021,incidental,BP,alive,no,77,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,8/25/2021,incidental,BP,alive,no,77,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,5/27/2020,active search,NGS,alive,no,76,0,0,yes,3D6.1D59ABD218,131,55,female,juv,no,,,no,no
+Great Basin Rattlesnake,7/22/2020,active search,NS,alive,no,76,0,0,yes,3D6.1533C700DC,487,90,male,adult,no,23,0,no,no
+Great Basin Rattlesnake,6/26/2020,driving,cf,alive,no,76,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,5/28/2020,incidental,NGS,alive,no,76,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,6/1/2020,incidental,NS,alive,no,76,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,5/28/2020,active search,NGS,alive,no,75,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,9/22/2021,active search,BP,alive,no,75,0,0,yes,3D9.1A4FA105F2,277,76.3,male,adult,no,23,8,no,yes
+Great Basin Rattlesnake,5/28/2020,active search,NGS,alive,no,73,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/28/2020,active search,NGS,alive,no,73,0,0,yes,3D6.1D59ABD1F3,218,64,female,adults,no,,,no,no
+Great Basin Rattlesnake,5/28/2020,active search,NS,alive,no,73,0,0,yes,3D6.1D59ABD206,0,0,female,adult,no,,,no,no
+Great Basin Rattlesnake,10/4/2022,active search,Cf,alive,no,73,0,0,yes,3D6.1533E8C112,15,26.7,female,neonate,no,20,1,no,no
+Great Basin Rattlesnake,6/7/2022,cover board,Grainne,alive,no,73,0,0,yes,3D9.1A4FA10683,159,54.1,male,juv,no,21,6,no,yes
+Great Basin Rattlesnake,9/10/2021,active search,BP,alive,no,72,0,0,yes,3D6.1533E8C133,22,34.9,male,juv,no,22,3,no,no
+Great Basin Rattlesnake,6/30/2021,incidental,BP,alive,no,72,0,0,yes,3D6.1D59ABD20B,274,63.9,female,adult,yes,17,8,yes,no
+Great Basin Rattlesnake,6/30/2021,incidental,BP,alive,no,72,0,0,yes,3D9.1A4FA106C7,405,80.1,female,adult,no,19,7,no,yes
+Great Basin Rattlesnake,5/12/2020,active search,cf,alive,no,71,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,8/17/2023 13:42,incidental,TS,alive,no,71,0,0,yes,3D9.1A4FD21289,459,86.6,male,adult,no,26,6,no,no
+Great Basin Rattlesnake,8/17/2023 13:41,incidental,TS,alive,no,71,0,0,yes,3D9.1A4FD212B8,308,71.5,female,adult,no,21,10,no,no
+Great Basin Rattlesnake,9/1/2020,active search,NS,alive,no,70,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,10/19/2020,incidental,cf,alive,no,70,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,5/20/2021,driving,BP,alive,no,70,0,0,yes,3D9.1A4FA10695,242,68,male,adult,no,22,10,yes,yes
+Great Basin Rattlesnake,10/16/2023 19:47,driving,cf,alive,no,69,0,0,no,,,,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,9/23/2021,active search,BP,alive,no,68,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,9/23/2021,active search,BP,alive,no,68,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,9/23/2021,active search,BP,alive,no,68,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,8/20/2021,incidental,BP,alive,no,68,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,8/20/2021,incidental,BP,alive,no,68,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,6/11/2020,active search,NS,alive,no,67,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,10/5/2021,incidental,cf,alive,no,67,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,5/17/2021,incidental,BP,alive,no,66,0,0,no, ,0, ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,6/5/2023 14:46,driving,TS,dead,yes,66,0,0,no,,,,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,9/5/2023 17:16,incidental,Cf,alive,no,65,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,9/5/2023 17:23,incidental,Cf,alive,no,65,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,6/16/2020,active search,NS,alive,no,64,0,0,yes,3D6.1D59ABD1DC,234,56,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/29/2021,active search,BP,alive,no,64,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,8/24/2023 13:37,incidental,Liz Bergin,alive,no,64,0,0,no,,,,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,8/20/2021,incidental,BP,alive,no,63,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,5/14/2020,active search,cf,alive,no,62,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,10/5/2023 19:50,driving,cf,dead,yes,61,0,0,no,,,,unknown,YOY,no,0,3,no,no
+Great Basin Rattlesnake,5/13/2020,active search,cf,alive,no,60,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,5/31/2022,driving,Cf,alive,no,60,0,0,yes,3D9.1A4FA106F7,581,84,male,adult,no,23,6,no,yes
+Great Basin Rattlesnake,6/18/2020,incidental,NS,dead,yes,57,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,6/18/2020,active search,NS,alive,no,56,0,0,yes,3D6.1D59ABD211,271,70,male,adult,no,,,no,no
+Great Basin Rattlesnake,5/31/2022,active search,Cf,alive,no,55,0,0,yes,3D9.1A4FA106B3,290,67.8,female,adult,no,20,7,no,yes
+Great Basin Rattlesnake,5/31/2022,active search,Cf,alive,no,55,0,0,yes,3D6.1533C70129,288,74.3,female,adult,yes,17,5,no,no
+Great Basin Rattlesnake,10/28/2020,incidental,cf,alive,no,53,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,4/13/2021 19:28,DenCheck,Cf je,alive,no,0,0,0,yes,3D9.1A4FA10709,221,66.9,female,Adult,no,19,7,yes,yes
+Great Basin Rattlesnake,4/13/2021 19:31,DenCheck,Cf je,alive,no,0,0,0,yes,3D6.1533E8C1AD,10,28.3,male,neonate,no,24,1,no,no
+Great Basin Rattlesnake,4/13/2021 19:32,DenCheck,Cf je,alive,no,0,0,0,yes,3D6.1533E8C194,8,26,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,4/13/2021 19:34,DenCheck,Cf je,alive,no,0,0,0,yes,3D6.1533E8C19F,9,26.5,unknown,neonate,no,25,1,no,no
+Great Basin Rattlesnake,4/13/2021 19:36,DenCheck,Cf je,alive,no,0,0,0,yes,3D6.1533C70129,407,76.5,female,Adult,yes,15,4,no,no
+Great Basin Rattlesnake,4/13/2021 19:38,DenCheck,Cf je,alive,no,0,0,0,yes,3D6.153367011D,247,62,female,Adult,yes,19,3,no,no
+Great Basin Rattlesnake,4/13/2021 19:41,DenCheck,Cf je,alive,no,0,0,0,yes,3D9.1A4FA1D644,191,63.4,female,Adult,no,19,8,yes,yes
+Great Basin Rattlesnake,4/19/2021 21:30,DenCheck,CF & JE,alive,no,0,0,0,yes,3D6.1533E8C15B,41,42.5,male,YOY,no,24,2,no,yes
+Great Basin Rattlesnake,4/19/2021 21:58,DenCheck,CF & JE,alive,no,0,0,0,yes,3D6.1533C7012,406,76.9,female,Adult,yes,18,4,no,no
+Great Basin Rattlesnake,4/19/2021 22:03,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA1060D,224,65.4,male,Adult,no,17,5,no,yes
+Great Basin Rattlesnake,4/19/2021 22:11,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1D5980484E,357,73.5,female,Adult,yes,17,9,no,no
+Great Basin Rattlesnake,4/19/2021 22:20,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA105FB,286,69.7,female,Adult,no,18,9,no,yes
+Great Basin Rattlesnake,4/19/2021 22:30,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA1063B,227,65.7,female,Adult,no,18,8,no,yes
+Great Basin Rattlesnake,4/19/2021 22:35,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA1063E,221,62.5,female,Adult,no,17,7,no,yes
+Great Basin Rattlesnake,4/19/2021 22:46,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1D59ABD20B,263,63.5,female,Adult,yes,16,7,no,no
+Great Basin Rattlesnake,4/19/2021 22:50,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA105F5,511,82.5,male,Adult,no,22,8,no,no
+Great Basin Rattlesnake,4/19/2021 23:00,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA105FF,456,83,male,Adult,no,22,7,no,yes
+Great Basin Rattlesnake,4/19/2021 23:08,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1D59804833,395,80.9,male,Adult,yes,25,12,no,no
+Great Basin Rattlesnake,4/19/2021 23:14,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA105F6,222,60.1,female,Adult,no,18,7,no,yes
+Great Basin Rattlesnake,4/19/2021 23:21,DenCheck,"CF, JE",alive,no,0,0,0,yes,3DD.003D4501C2,445,78.2,male,Adult,no,26,3,no,yes
+Great Basin Rattlesnake,4/19/2021 23:28,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1D59804827,222,61.4,female,Adult,yes,18,8,no,no
+Great Basin Rattlesnake,4/19/2021 23:33,DenCheck,"CF, JE",alive,no,0,0,0,yes,3DD.003D4501C2,496,78.2,female,Adult,no,19,7,no,yes
+Great Basin Rattlesnake,4/19/2021 23:44,DenCheck,"CF, JE",alive,no,0,0,0,yes,3DD.003D45019F,344,73.5,male,Adult,no,24,9,no,yes
+Great Basin Rattlesnake,5/4/2021 19:59,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10688,271,66.5,female,Adult,no,21,6,yes,yes
+Great Basin Rattlesnake,5/4/2021 20:31,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10685,195,51.4,female,Adult,no,19,7,no,yes
+Great Basin Rattlesnake,5/4/2021 20:47,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0CB,11,26.3,female,neonate,no,20,1,no,no
+Great Basin Rattlesnake,5/4/2021 20:54,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59A008D7,321,72.7,female,Adult,yes,23,11,no,no
+Great Basin Rattlesnake,5/4/2021 21:03,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10677,325,72.4,male,Adult,no,24,11,no,
+Great Basin Rattlesnake,5/4/2021 21:17,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106A4,171,57.2,female,Adult,no,21,6,no,yes
+Great Basin Rattlesnake,5/4/2021 21:29,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10670,285,63.7,male,Adult,no,23,5,no,yes
+Great Basin Rattlesnake,5/4/2021 21:40,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10681,266,66.4,male,Adult,no,26,8,no,yes
+Great Basin Rattlesnake,5/4/2021 21:51,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533C7010E,298,64.5,female,Adult,yes,18,4,no,no
+Great Basin Rattlesnake,5/5/2021 13:50,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59ABD1F0,204,66.4,male,Adult,yes,24,7,yes,no
+Great Basin Rattlesnake,5/5/2021 14:08,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C142,321,79.5,male,Adult,no,25,7,yes,yes
+Great Basin Rattlesnake,5/5/2021 14:22,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10679,280,66.9,male,Adult,no,18,8,no,no
+Great Basin Rattlesnake,5/5/2021 14:34,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10694,139,52.5,female,Juv,no,20,6,no,yes
+Great Basin Rattlesnake,5/5/2021 14:45,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106A5,109,49.3,male,Juv,no,24,7,no,yes
+Great Basin Rattlesnake,5/5/2021 14:58,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1069D,158,58.2,male,Adult,no,22,7,no,yes
+Great Basin Rattlesnake,5/5/2021 15:05,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1067F,498,91.2,male,Adult,no,25,10,no,yes
+Great Basin Rattlesnake,5/6/2021 0:19,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106A1,202,60.6,female,Adult,no,18,5,yes,yes
+Great Basin Rattlesnake,8/26/2021 22:31,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C138,8,19.5,unknown,neonate,no,27,1,no,no
+Great Basin Rattlesnake,9/2/2021 14:01,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C123,11,20.9,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/2/2021 14:10,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C12F,11,22.7,male,neonate,no,25,1,no,no
+Great Basin Rattlesnake,9/2/2021 14:26,DenCheck,BP,alive,no,0,0,0,yes,3D6.1533E8C158,9,20.2,male,neonate,no,26,1,no,no
+Great Basin Rattlesnake,9/2/2021 14:34,DenCheck,BP,alive,no,0,0,0,yes,3D6.1533E8C14B,11,21.4,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/9/2021 19:30,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1062F,472,90.8,male,Adult,no,21,4,yes,yes
+Great Basin Rattlesnake,9/9/2021 20:52,DenCheck,BP,alive,no,0,0,0,yes,3D9.1A4FA10613,372,74,male,Adult,no,23,10,yes,yes
+Great Basin Rattlesnake,9/9/2021 21:10,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105EF,172,59.6,male,Adult,no,23,7,yes,yes
+Great Basin Rattlesnake,9/13/2021 21:36,DenCheck,JE,alive,no,0,0,0,yes,3D9.1A4FA106F5,263,64.1,female,Adult,no,19,8,yes,yes
+Great Basin Rattlesnake,9/13/2021 21:55,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA106CE,284,66.1,male,Adult,no,24,7,yes,yes
+Great Basin Rattlesnake,9/13/2021 22:08,DenCheck,"JE, CF",alive,no,0,0,0,yes,3D9.1A4FA106F6,453,89.7,male,Adult,no,24,11,yes,yes
+Great Basin Rattlesnake,9/13/2021 22:17,DenCheck,JE CF,alive,no,0,0,0,yes,3D9.1AFA106FF,288,68.7,male,Adult,no,23,5,no,yes
+Great Basin Rattlesnake,9/13/2021 22:24,DenCheck,"JE, CF",alive,no,0,0,0,yes,3D6.1533C7012F,304,81.7,female,Adult,yes,19,8,no,no
+Great Basin Rattlesnake,9/14/2021 15:37,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1533E8C176,109,55.1,female,Adult,no,19,3,yes,yes
+Great Basin Rattlesnake,9/14/2021 15:53,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1533E8C190,12,19.1,male,neonate,no,24,1,no,no
+Great Basin Rattlesnake,9/14/2021 16:02,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1533E8C1A8,12,19.4,male,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/14/2021 16:10,DenCheck,"JE, CF",alive,no,0,0,0,yes,3D6.1533E8C189,11,19.2,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/14/2021 16:19,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1533E8C15E,13,21.5,male,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/14/2021 16:29,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1533E8C174,12,21.9,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/14/2021 16:34,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D6.1533E8C1B7,12,20.9,male,neonate,no,27,1,no,no
+Great Basin Rattlesnake,9/21/2021 22:06,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA10705,15,25.9,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/23/2021 14:19,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105EA,277,71.9,male,Adult,no,24,14,no,yes
+Great Basin Rattlesnake,9/23/2021 14:34,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1062B,234,71.6,female,Adult,no,20,10,no,yes
+Great Basin Rattlesnake,9/23/2021 14:56,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105F2,277,70.4,male,Adult,no,23,8,no,yes
+Great Basin Rattlesnake,9/23/2021 15:22,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C148,15,29,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/23/2021 19:58,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C18C,16,25.7,male,neonate,no,25,1,no,no
+Great Basin Rattlesnake,9/23/2021 20:10,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1BF,10,21.8,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/23/2021 22:05,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106D1,67,44.5,female,Juv,no,18,4,no,yes
+Great Basin Rattlesnake,9/27/2021 14:09,DenCheck,"JE, CF",alive,no,0,0,0,yes,3D6.1533E8C183,177,66.7,female,Adult,no,19,9,no,yes
+Great Basin Rattlesnake,9/27/2021 14:21,DenCheck,"JE, CF",alive,no,0,0,0,yes,3D6.1533E8C199,513,83.8,male,Adult,no,24,5,no,yes
+Great Basin Rattlesnake,9/30/2021 22:05,DenCheck,Cf,alive,no,0,0,0,yes,3DD.003D45019C,565,82.8,male,Adult,yes,25,9,no,no
+Great Basin Rattlesnake,9/30/2021 22:19,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59ABD20B,191,58.8,female,Adult,yes,16,7,no,no
+Great Basin Rattlesnake,9/30/2021 22:32,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C181,15,26.5,male,neonate,no,24,1,no,no
+Great Basin Rattlesnake,9/30/2021 22:41,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C180,18,28.6,female,YOY,no,21,2,no,no
+Great Basin Rattlesnake,9/30/2021 22:53,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C163,11,22.5,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/30/2021 23:01,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C16A,13,22.6,female,neonate,no,21,1,no,no
+Great Basin Rattlesnake,10/5/2021 22:16,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1BA,15,25.7,male,neonate,no,22,1,no,no
+Great Basin Rattlesnake,10/5/2021 22:27,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C16C,11,23.4,female,neonate,no,21,1,no,no
+Great Basin Rattlesnake,10/5/2021 22:37,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C16D,12,26.3,female,neonate,no,20,1,no,no
+Great Basin Rattlesnake,10/5/2021 22:47,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C191,13,24.6,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,10/5/2021 22:59,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106ED,52,40.5,male,Juv,no,24,3,no,no
+Great Basin Rattlesnake,10/5/2021 23:18,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C17F,15,25,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,10/7/2021 14:33,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C190,11,21.8,male,neonate,yes,26,1,no,no
+Great Basin Rattlesnake,10/7/2021 14:45,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C144,9,22.6,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/7/2021 21:20,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1A0,10,23.8,female,neonate,no,21,1,no,no
+Great Basin Rattlesnake,10/7/2021 21:34,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1A3,14,25.7,female,neonate,no,20,1,no,no
+Great Basin Rattlesnake,10/7/2021 21:41,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C188,10,24.8,male,neonate,no,26,1,no,no
+Great Basin Rattlesnake,10/7/2021 21:47,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C178,13,26.3,male,neonate,no,27,1,no,no
+Great Basin Rattlesnake,10/7/2021 21:53,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C171,6,20.9,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/7/2021 22:01,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C15E,12,23.7,female,neonate,yes,19,1,no,no
+Great Basin Rattlesnake,10/7/2021 22:07,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C17C,9,23.4,male,neonate,no,25,1,no,no
+Great Basin Rattlesnake,10/7/2021 22:13,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106EE,61,44,male,Juv,no,26,3,no,yes
+Great Basin Rattlesnake,4/26/2022 17:57,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C19C,110,55.1,female,Adult,no,18,6,no,yes
+Great Basin Rattlesnake,4/26/2022 18:38,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106F9,185,68.5,female,Adult,no,18,9,no,yes
+Great Basin Rattlesnake,4/26/2022 18:58,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C17E,12,24.2,male,YOY,no,24,1,no,no
+Great Basin Rattlesnake,4/26/2022 19:06,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C1B6,12,25,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/26/2022 19:15,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1070A,337,76.9,male,Adult,no,24,8,no,yes
+Great Basin Rattlesnake,4/26/2022 19:50,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106BF,138,63.5,female,Adult,no,18,8,no,yes
+Great Basin Rattlesnake,4/26/2022 20:27,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA10707,227,63.9,female,Adult,no,17,8,no,yes
+Great Basin Rattlesnake,4/26/2022 20:51,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1070E,203,71.4,female,Adult,no,18,6,no,yes
+Great Basin Rattlesnake,4/26/2022 21:07,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C1A9,11,23.1,male,YOY,no,26,1,no,no
+Great Basin Rattlesnake,4/26/2022 21:17,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C15F,10,24.6,male,YOY,no,24,1,no,no
+Great Basin Rattlesnake,4/26/2022 21:26,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C175,12,26.4,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/26/2022 21:33,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C168,10,27.6,female,YOY,no,18,1,no,no
+Great Basin Rattlesnake,4/26/2022 21:43,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C1B8,11,28.4,female,YOY,no,18,1,no,no
+Great Basin Rattlesnake,4/26/2022 21:48,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C172,11,26.3,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/26/2022 21:55,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C17D,10,25.7,male,YOY,no,24,1,no,no
+Great Basin Rattlesnake,4/27/2022 22:59,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106FE,448,82.8,male,Adult,no,23,11,no,yes
+Great Basin Rattlesnake,4/27/2022 23:14,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106C1,217,70.4,male,Adult,no,26,3,no,yes
+Great Basin Rattlesnake,4/27/2022 23:26,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA1067F,474,90.7,male,Adult,yes,24,9,no,no
+Great Basin Rattlesnake,4/27/2022 23:34,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106BE,265,71,male,Adult,no,22,7,no,yes
+Great Basin Rattlesnake,4/27/2022 23:44,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106F6,415,90.6,male,Adult,yes,23,4,no,no
+Great Basin Rattlesnake,4/27/2022 23:51,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106FA,216,64.9,male,Adult,no,24,8,no,no
+Great Basin Rattlesnake,4/27/2022 23:59,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106F3,337,78.6,male,Adult,no,23,9,no,yes
+Great Basin Rattlesnake,4/28/2022 0:07,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106CC,335,81.3,male,Adult,no,27,7,no,yes
+Great Basin Rattlesnake,4/28/2022 0:15,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106C2,461,85.8,male,Adult,no,24,4,no,no
+Great Basin Rattlesnake,4/28/2022 0:33,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C16B,12,26.2,female,YOY,no,19,1,no,no
+Great Basin Rattlesnake,4/28/2022 0:37,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C1B1,9,24.6,male,YOY,no,25,1,no,no
+Great Basin Rattlesnake,4/28/2022 0:43,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C16F,10,24.8,female,YOY,no,19,1,no,no
+Great Basin Rattlesnake,4/28/2022 0:50,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C195,12,26.8,female,YOY,no,18,1,no,no
+Great Basin Rattlesnake,4/28/2022 0:55,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C19F,12,26.9,male,YOY,no,21,1,no,no
+Great Basin Rattlesnake,4/28/2022 1:00,DenCheck,GO,alive,no,0,0,0,yes,3D6.1533E8C1A5,11,26,male,YOY,no,22,1,no,no
+Great Basin Rattlesnake,4/28/2022 13:55,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C18F,13,26.8,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/28/2022 14:14,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C164,14,27.3,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/28/2022 14:21,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1B0,10,25.4,male,YOY,no,22,1,no,no
+Great Basin Rattlesnake,4/28/2022 14:44,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C162,10,26.3,female,YOY,no,18,1,no,no
+Great Basin Rattlesnake,4/28/2022 14:50,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C162,12,27.5,male,YOY,no,22,1,no,no
+Great Basin Rattlesnake,4/28/2022 14:58,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C17A,10,26.7,male,YOY,no,24,1,no,no
+Great Basin Rattlesnake,4/28/2022 15:11,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C185,9,24.6,male,YOY,no,22,1,no,no
+Great Basin Rattlesnake,4/28/2022 15:18,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C16F,10,25.9,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/28/2022 15:29,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F0,152,66.3,female,Adult,no,23,6,no,yes
+Great Basin Rattlesnake,4/28/2022 15:43,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1A1,12,25.2,female,YOY,no,17,1,no,no
+Great Basin Rattlesnake,4/28/2022 19:08,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59A00D3E,191,67.7,male,Adult,yes,23,6,no,no
+Great Basin Rattlesnake,4/28/2022 19:18,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10708,257,68.1,female,Adult,no,10,4,no,yes
+Great Basin Rattlesnake,4/28/2022 19:30,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B6,483,86,male,Adult,no,21,10,no,yes
+Great Basin Rattlesnake,4/28/2022 19:50,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B2,459,92.1,male,Adult,no,25,12,no,yes
+Great Basin Rattlesnake,4/28/2022 20:03,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B1,236,70.3,male,Adult,no,23,7,no,yes
+Great Basin Rattlesnake,4/28/2022 20:17,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B4,173,62,female,Adult,no,19,6,no,yes
+Great Basin Rattlesnake,4/28/2022 20:39,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C15D,9,23.8,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,4/28/2022 23:51,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106DF,334,76.7,male,Adult,no,20,6,no,yes
+Great Basin Rattlesnake,5/3/2022 14:57,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C18A,11,25.5,male,YOY,no,20,1,no,no
+Great Basin Rattlesnake,5/3/2022 15:10,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C169,9,25.1,male,YOY,no,18,1,no,no
+Great Basin Rattlesnake,5/3/2022 15:19,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C1B2,14,26.1,female,YOY,no,16,1,no,no
+Great Basin Rattlesnake,5/3/2022 15:24,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C198,11,25,male,YOY,no,23,1,no,no
+Great Basin Rattlesnake,5/3/2022 15:30,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C1A7,11,24,male,YOY,no,25,1,no,no
+Great Basin Rattlesnake,5/3/2022 15:34,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C1AF,28,33.5,female,Juv,no,19,2,no,no
+Great Basin Rattlesnake,5/3/2022 15:43,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C171,5,20.7,male,YOY,yes,17,1,no,no
+Great Basin Rattlesnake,5/3/2022 15:58,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C165,11,24.2,female,YOY,no,18,1,no,no
+Great Basin Rattlesnake,5/3/2022 16:09,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1BC,11,22.3,male,YOY,no,21,1,no,no
+Great Basin Rattlesnake,5/3/2022 16:22,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C170,10,23.8,female,YOY,no,15,1,no,no
+Great Basin Rattlesnake,5/3/2022 16:39,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1AB,9,23.9,male,YOY,no,22,1,no,no
+Great Basin Rattlesnake,5/3/2022 16:55,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1069D,237,66,male,Adult,yes,21,9,no,no
+Great Basin Rattlesnake,5/3/2022 17:05,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106D8,298,75.7,male,Adult,no,24,8,no,yes
+Great Basin Rattlesnake,5/3/2022 17:15,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B8,290,70.7,male,Adult,no,25,8,no,yes
+Great Basin Rattlesnake,5/3/2022 17:30,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106DA,303,77,male,Adult,no,26,4,no,yes
+Great Basin Rattlesnake,5/3/2022 17:44,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106C6,160,68.2,female,Adult,no,20,7,no,yes
+Great Basin Rattlesnake,5/3/2022 18:08,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F8,139,77,female,Adult,no,18,12,no,yes
+Great Basin Rattlesnake,5/3/2022 18:26,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106E4,116,54.7,female,Juv,no,19,6,no,yes
+Great Basin Rattlesnake,5/3/2022 18:43,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C196,14,26.1,male,YOY,no,22,1,no,no
+Great Basin Rattlesnake,5/3/2022 18:56,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C1AE,14,27.2,female,YOY,no,18,1,no,no
+Great Basin Rattlesnake,5/3/2022 19:02,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C18E,13,23.6,male,YOY,no,21,1,no,no
+Great Basin Rattlesnake,5/3/2022 19:11,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106D0,178,68.1,female,Adult,no,17,2,no,yes
+Great Basin Rattlesnake,5/5/2022 22:58,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C19B,11,27.1,male,YOY,no,21,1,no,no
+Great Basin Rattlesnake,5/9/2022 15:09,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1BB,11,25.6,male,YOY,no,25,1,no,no
+Great Basin Rattlesnake,5/9/2022 15:21,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1070B,410,81.8,male,Adult,no,24,10,no,yes
+Great Basin Rattlesnake,5/9/2022 15:37,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106E2,652,92.2,male,Adult,no,22,8,no,yes
+Great Basin Rattlesnake,5/9/2022 16:45,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F4,142,60.5,male,Adult,no,23,5,no,yes
+Great Basin Rattlesnake,5/9/2022 16:58,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10618,271,81.3,female,Adult,yes,20,5,no,no
+Great Basin Rattlesnake,5/9/2022 17:20,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106D2,144,60.8,male,Adult,no,23,8,no,yes
+Great Basin Rattlesnake,5/9/2022 17:36,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106C3,253,78.1,male,Adult,no,23,5,no,yes
+Great Basin Rattlesnake,5/9/2022 17:48,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106C9,313,76.8,male,Adult,no,24,4,no,yes
+Great Basin Rattlesnake,5/9/2022 18:00,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59804817,343,79.1,male,Adult,yes,21,9,no,yes
+Great Basin Rattlesnake,5/10/2022 21:36,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C1AC,34,34.5,female,Juv,no,15,1,no,no
+Great Basin Rattlesnake,5/10/2022 21:43,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533EC8C197,313,79.4,male,Adult,no,24,7,no,yes
+Great Basin Rattlesnake,5/10/2022 21:52,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10706,216,68.2,female,Adult,no,18,7,no,yes
+Great Basin Rattlesnake,5/31/2022 23:25,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106FC,142,68.3,female,Adult,no,17,2,no,yes
+Great Basin Rattlesnake,9/15/2022 21:47,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106A3,293,68.4,male,Adult,no,25,6,no,yes
+Great Basin Rattlesnake,9/15/2022 22:06,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10678,382,75.4,male,Adult,no,24,9,no,yes
+Great Basin Rattlesnake,9/15/2022 15:02,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA10665,405,74.8,male,Adult,no,23,6,no,yes
+Great Basin Rattlesnake,9/20/2022 15:20,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA106AA,307,72.4,male,Adult,no,22,8,no,yes
+Great Basin Rattlesnake,9/15/2022 15:36,DenCheck,GO,alive,no,0,0,0,yes,3D9.1A4FA10689,298,62.3,female,Adult,no,17,4,no,yes
+Great Basin Rattlesnake,9/15/2022 15:54,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10659,288,65.9,male,Adult,no,23,8,no,yes
+Great Basin Rattlesnake,9/20/2022 16:08,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10657,233,65.8,male,Adult,no,23,4,no,yes
+Great Basin Rattlesnake,9/20/2022 19:10,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106B5,356,63.9,female,Adult,no,18,6,no,yes
+Great Basin Rattlesnake,9/20/2022 19:22,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106E6,99,47.3,male,Juv,no,26,3,no,yes
+Great Basin Rattlesnake,9/26/2022 19:32,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106D4,636,84.8,male,Adult,no,23,5,no,yes
+Great Basin Rattlesnake,9/26/2022 19:44,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106BB,566,85.3,male,Adult,no,21,7,no,yes
+Great Basin Rattlesnake,9/26/2022 19:51,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C199,591,80.8,male,Adult,yes,22,7,no,no
+Great Basin Rattlesnake,9/26/2022 20:00,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4F106C8,439,78.6,male,Adult,no,24,11,no,yes
+Great Basin Rattlesnake,9/26/2022 20:08,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10701,330,71.1,female,Adult,no,19,2,no,yes
+Great Basin Rattlesnake,9/26/2022 20:17,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106D6,313,62.1,male,Adult,no,24,7,no,yes
+Great Basin Rattlesnake,9/26/2022 20:26,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C186,74,41.3,female,YOY,no,15,2,no,no
+Great Basin Rattlesnake,9/26/2022 20:36,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA105FF,544,85.9,male,Adult,yes,22,4,no,no
+Great Basin Rattlesnake,9/26/2022 20:41,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10713,479,81.8,male,Adult,no,22,5,no,no
+Great Basin Rattlesnake,9/26/2022 20:49,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106E5,617,90.6,male,Adult,no,21,7,no,no
+Great Basin Rattlesnake,9/26/2022 20:56,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106FD,589,83.2,male,Adult,no,24,5,no,no
+Great Basin Rattlesnake,9/26/2022 21:04,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106D,473,83.5,male,Adult,yes,24,6,no,no
+Great Basin Rattlesnake,9/26/2022 21:14,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10633,311,69.9,female,Adult,no,17,6,no,no
+Great Basin Rattlesnake,9/26/2022 21:26,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C19A,56,42.9,female,YOY,no,17,3,no,no
+Great Basin Rattlesnake,9/26/2022 21:36,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C182,131,58.9,female,Adult,no,18,6,no,no
+Great Basin Rattlesnake,9/26/2022 21:43,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C179,263,61.6,female,Adult,no,18,8,no,no
+Great Basin Rattlesnake,9/26/2022 21:51,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1060A,277,65,female,Adult,no,15,8,no,no
+Great Basin Rattlesnake,9/26/2022 22:01,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C192,120,52.2,male,Juv,no,21,4,no,no
+Great Basin Rattlesnake,9/29/2022 21:36,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10669,372,67.9,female,Adult,no,19,5,no,no
+Great Basin Rattlesnake,9/29/2022 21:46,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1067E,427,76.8,female,Adult,no,18,8,no,no
+Great Basin Rattlesnake,9/29/2022 22:01,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1068C,356,71.8,male,Adult,no,24,9,no,no
+Great Basin Rattlesnake,9/29/2022 22:21,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10698,445,82.2,male,Adult,no,26,8,no,no
+Great Basin Rattlesnake,9/29/2022 22:31,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106C2,565,84.4,male,Adult,yes,24,5,no,no
+Great Basin Rattlesnake,9/29/2022 22:39,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10686,344,72.9,male,Adult,no,24,8,no,no
+Great Basin Rattlesnake,9/29/2022 22:53,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106AE,300,61.2,female,Adult,no,19,3,no,no
+Great Basin Rattlesnake,9/29/2022 23:01,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0F0,77,42.9,female,YOY,no,21,2,no,no
+Great Basin Rattlesnake,10/3/2022 22:23,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106A2,248,65.1,female,Adult,no,20,6,no,no
+Great Basin Rattlesnake,10/3/2022 22:33,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1065F,85,48.5,female,Juv,no,17,3,no,no
+Great Basin Rattlesnake,10/3/2022 22:46,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1070E,472,70.6,female,Adult,yes,18,7,no,no
+Great Basin Rattlesnake,10/4/2022 22:56,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59804833,473,83,male,Adult,yes,25,10,no,no
+Great Basin Rattlesnake,10/3/2022 23:05,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1066E,370,69,female,Adult,no,18,2,no,no
+Great Basin Rattlesnake,10/3/2022 23:15,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10655,361,71.5,male,Adult,no,24,8,no,no
+Great Basin Rattlesnake,10/3/2022 23:24,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10662,353,65.8,female,Adult,no,18,6,no,no
+Great Basin Rattlesnake,10/3/2022 23:33,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1069A,270,69,male,Adult,no,23,9,no,no
+Great Basin Rattlesnake,10/3/2022 23:49,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105F5,624,87.2,male,Adult,yes,23,7,no,no
+Great Basin Rattlesnake,10/3/2022 23:58,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1068E,404,78.5,male,Adult,no,23,8,no,no
+Great Basin Rattlesnake,10/4/2022 0:08,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F3,482,87.2,male,Adult,yes,23,9,no,no
+Great Basin Rattlesnake,10/4/2022 0:17,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1064E,461,82.9,male,Adult,no,25,7,no,no
+Great Basin Rattlesnake,10/4/2022 0:27,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1065A,215,63.6,female,Adult,no,19,7,no,no
+Great Basin Rattlesnake,10/4/2022 0:35,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1C0,90,49.9,female,YOY,no,18,3,no,no
+Great Basin Rattlesnake,10/4/2022 0:48,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0F8,77,43.9,female,YOY,no,20,3,no,no
+Great Basin Rattlesnake,10/4/2022 21:11,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105EC,261,71,male,Adult,no,23,2,no,no
+Great Basin Rattlesnake,10/4/2022 21:22,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1060E,78,48.1,male,Juv,no,22,3,no,no
+Great Basin Rattlesnake,10/5/2022 21:44,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106CE,380,72.8,male,Adult,yes,22,9,no,no
+Great Basin Rattlesnake,10/5/2022 21:52,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105FC,161,57.7,male,Adult,no,23,5,no,no
+Great Basin Rattlesnake,10/5/2022 22:01,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1063E,278,66.7,female,Adult,yes,17,4,no,no
+Great Basin Rattlesnake,10/5/2022 22:18,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10611,71,47,female,YOY,no,18,3,no,no
+Great Basin Rattlesnake,10/5/2022 22:31,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C141,84,48.7,male,YOY,no,24,3,no,no
+Great Basin Rattlesnake,10/6/2022 20:10,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10696,198,58.5,female,Adult,no,18,6,no,no
+Great Basin Rattlesnake,10/11/2022 20:23,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B0,394,83,male,Adult,no,23,8,no,no
+Great Basin Rattlesnake,10/11/2022 20:39,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C197,387,82.4,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,10/11/2022 20:55,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105EA,394,91.4,male,Adult,yes,24,9,no,no
+Great Basin Rattlesnake,10/11/2022 21:05,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1069E,100,49.8,male,Juv,no,23,2,no,no
+Great Basin Rattlesnake,10/13/2022 15:12,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10656,317,69.1,male,Adult,no,23,6,no,no
+Great Basin Rattlesnake,10/13/2022 15:23,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1067A,297,60.1,female,Adult,no,17,7,no,no
+Great Basin Rattlesnake,10/13/2022 15:33,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0EC,50,40.1,female,Juv,no,20,3,no,no
+Great Basin Rattlesnake,10/13/2022 15:44,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0A8,58,38.5,male,Juv,no,23,2,no,no
+Great Basin Rattlesnake,10/17/2022 15:09,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B4,263,64.1,female,Adult,yes,19,6,no,no
+Great Basin Rattlesnake,10/17/2022 15:18,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0CF,83,49.3,female,Juv,no,18,3,no,no
+Great Basin Rattlesnake,10/17/2022 15:27,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0C8,113,50.7,male,Juv,no,22,3,no,no
+Great Basin Rattlesnake,10/18/2022 17:19,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1070B,529,82.4,male,Adult,yes,23,11,no,no
+Great Basin Rattlesnake,10/18/2022 17:31,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10690,436,79.7,male,Adult,no,24,6,no,no
+Great Basin Rattlesnake,10/18/2022 17:42,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59A00D3E,254,66.9,male,Adult,yes,22,7,no,no
+Great Basin Rattlesnake,10/18/2022 17:51,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10695,311,75.7,male,Adult,yes,23,6,yes,no
+Great Basin Rattlesnake,10/18/2022 18:03,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1066C,492,84.3,male,Adult,no,22,8,no,no
+Great Basin Rattlesnake,10/18/2022 18:13,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0E3,16,27.1,female,neonate,no,16,1,no,no
+Great Basin Rattlesnake,10/19/2022 22:25,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0D7,62,43.1,male,Juv,no,24,3,no,no
+Great Basin Rattlesnake,10/19/2022 22:34,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0F2,58,45.8,male,Juv,no,25,3,no,no
+Great Basin Rattlesnake,10/20/2022 21:39,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C183,379,69.5,female,Adult,yes,18,8,no,no
+Great Basin Rattlesnake,4/28/2023 22:21,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1065C,318,65.8,female,Adult,no,21,7,no,no
+Great Basin Rattlesnake,4/28/2023 22:36,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10695,304,75.8,male,Adult,yes,24,6,no,no
+Great Basin Rattlesnake,4/28/2023 22:47,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10639,379,72.9,female,Adult,yes,20,4,no,no
+Great Basin Rattlesnake,4/28/2023 22:57,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F0,233,64.9,female,Adult,yes,22,6,no,no
+Great Basin Rattlesnake,5/1/2023 23:07,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C197,378,81.2,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,5/1/2023 23:15,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1065E,52,40.8,male,Juv,no,20,2,no,no
+Great Basin Rattlesnake,5/2/2023 17:12,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106B1,337,71,male,Adult,yes,23,7,no,no
+Great Basin Rattlesnake,5/2/2023 17:21,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106E3,217,60.3,female,Adult,yes,16,8,no,no
+Great Basin Rattlesnake,5/2/2023 17:30,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106D9,298,63.9,female,Adult,yes,19,7,no,no
+Great Basin Rattlesnake,5/2/2023 17:36,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1066F,283,65.9,female,Adult,no,18,5,no,yes
+Great Basin Rattlesnake,5/2/2023 17:53,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10658,293,68.4,female,Adult,no,20,8,no,yes
+Great Basin Rattlesnake,5/2/2023 18:05,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106FA,291,72.1,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,5/2/2023 18:12,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10692,321,68,female,Adult,no,17,3,no,yes
+Great Basin Rattlesnake,5/2/2023 18:21,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106F3,458,87.8,male,Adult,yes,23,8,no,no
+Great Basin Rattlesnake,5/2/2023 18:26,DenCheck,TS,alive,no,0,0,0,yes,3D6.1D59804827,299,64.7,female,Adult,yes,18,10,no,no
+Great Basin Rattlesnake,5/2/2023 18:34,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1066E,355,67.9,female,Adult,yes,17,2,no,yes
+Great Basin Rattlesnake,5/2/2023 18:45,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106B8,401,74.9,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,5/2/2023 18:50,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1064E,435,83.1,male,Adult,yes,25,7,no,yes
+Great Basin Rattlesnake,5/2/2023 18:56,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106DA,403,80,male,Adult,yes,25,6,no,no
+Great Basin Rattlesnake,5/2/2023 19:02,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106AD,353,68.6,female,Adult,no,18,10,no,yes
+Great Basin Rattlesnake,5/2/2023 19:10,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10676,358,69.1,female,Adult,no,19,9,no,yes
+Great Basin Rattlesnake,5/2/2023 19:35,DenCheck,TS,alive,no,0,0,0,yes,3DD.003D45019F,390,77.8,male,Adult,yes,22,13,no,no
+Great Basin Rattlesnake,5/2/2023 19:44,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106C8,433,81.9,male,Adult,yes,24,11,no,no
+Great Basin Rattlesnake,5/2/2023 19:51,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1064C,413,77.9,female,Adult,no,20,4,no,yes
+Great Basin Rattlesnake,5/2/2023 19:59,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10701,305,71,female,Adult,yes,20,2,no,no
+Great Basin Rattlesnake,5/2/2023 20:05,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106AF,88,50.7,male,Juv,no,24,3,no,no
+Great Basin Rattlesnake,5/2/2023 20:11,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10691,64,42.6,male,Juv,no,25,3,no,no
+Great Basin Rattlesnake,5/3/2023 15:18,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10698,407,87.9,male,Adult,yes,26,8,no,no
+Great Basin Rattlesnake,5/3/2023 15:59,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10693,323,66,female,Adult,no,19,5,no,yes
+Great Basin Rattlesnake,5/3/2023 16:23,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10666,284,72.3,male,Adult,no,24,8,no,yes
+Great Basin Rattlesnake,5/3/2023 16:42,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106CE,359,71.9,male,Adult,yes,22,10,no,no
+Great Basin Rattlesnake,5/3/2023 17:02,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10682,259,70.2,male,Adult,no,23,6,no,yes
+Great Basin Rattlesnake,5/3/2023 17:27,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1069D,287,76.1,male,Adult,yes,21,11,no,no
+Great Basin Rattlesnake,5/3/2023 17:56,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10686,331,78.8,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,5/3/2023 18:11,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA1067A,292,62.2,female,Adult,yes,18,7,no,no
+Great Basin Rattlesnake,5/3/2023 18:21,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA1065B,231,63.8,male,Adult,no,21,7,no,yes
+Great Basin Rattlesnake,5/3/2023 18:30,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA1060D,327,72.4,female,Adult,yes,17,7,no,no
+Great Basin Rattlesnake,5/3/2023 18:44,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA1065B,84,51.3,female,Juv,no,20,4,no,no
+Great Basin Rattlesnake,5/3/2023 18:55,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA106AC,54,42.8,female,Juv,no,19,2,no,no
+Great Basin Rattlesnake,5/3/2023 22:43,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10680,209,63.9,male,Adult,no,24,9,no,yes
+Great Basin Rattlesnake,5/3/2023 22:51,DenCheck,CF,alive,no,0,0,0,yes,3D6.1D59A00D2C,360,77.7,male,Adult,yes,22,10,no,yes
+Great Basin Rattlesnake,5/10/2023 14:40,DenCheck,cf,alive,no,0,0,0,yes,3D9.1A4FA10618,411,79.7,female,Adult,yes,20,6,no,no
+Great Basin Rattlesnake,5/10/2023 14:57,DenCheck,cf,alive,no,0,0,0,yes,3D9.1A4FA1070B,507,82.7,male,Adult,yes,23,11,no,no
+Great Basin Rattlesnake,5/10/2023 15:08,DenCheck,cf,alive,no,0,0,0,yes,3D9.1A4FA106E2,663,95.3,male,Adult,yes,22,7,no,no
+Great Basin Rattlesnake,5/10/2023 22:55,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C19C,275,65.2,female,Adult,yes,18,6,no,no
+Great Basin Rattlesnake,5/18/2023 15:25,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106AB,264,63,female,Adult,no,16,5,no,yes
+Great Basin Rattlesnake,5/16/2023 20:05,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA106D0,349,70.5,female,Adult,yes,16,3,no,no
+Great Basin Rattlesnake,6/20/2023 21:46,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106B1,377,78.7,male,Adult,yes,23,8,no,no
+Great Basin Rattlesnake,6/20/2023 22:54,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106C7,450,78.9,female,Adult,yes,19,6,no,no
+Great Basin Rattlesnake,6/20/2023 23:47,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0DA,196,60.5,female,Adult,no,19,7,no,yes
+Great Basin Rattlesnake,6/21/2023 23:00,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0C7,203,58.6,female,Adult,no,17,7,yes,yes
+Great Basin Rattlesnake,6/21/2023 23:04,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106F9,324,72,female,Adult,yes,17,7,no,no
+Great Basin Rattlesnake,9/5/2023 19:55,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C097,17,24,male,neonate,no,21,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:04,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0BB,15,23,female,neonate,no,20,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:09,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0F1,16,23.7,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:14,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0A9,17,24.7,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:19,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0F5,14,24.1,female,neonate,no,17,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:40,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0B3,13,23,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:45,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA106A7,11,21.7,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:52,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10674,12,23.6,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/5/2023 20:58,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1064F,12,22.7,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:02,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA1067C,11,22.7,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:08,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10672,188,61.5,female,Adult,no,22,4,no,yes
+Great Basin Rattlesnake,9/5/2023 21:23,DenCheck,TS,alive,no,0,0,0,yes,3D9.1A4FA10697,15,24.8,male,neonate,no,27,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:29,DenCheck,TS,alive,no,0,0,0,yes,3D9.1533E8C0F7,15,23,male,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:34,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0D0,15,23.7,male,neonate,no,24,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:37,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0B9,14,22.6,male,neonate,no,28,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:42,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0EB,14,23.6,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/5/2023 21:47,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0BE,186,69.5,female,Adult,no,19,2,no,yes
+Great Basin Rattlesnake,9/5/2023 21:57,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0EA,16,24.3,male,neonate,no,22,1,no,no
+Great Basin Rattlesnake,9/5/2023 22:02,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0DB,15,23.6,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/5/2023 22:07,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8COA2,15,25.2,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,9/5/2023 22:11,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0B8,15,23.9,female,neonate,no,17,1,no,no
+Great Basin Rattlesnake,9/5/2023 22:15,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0B0,18,25.5,female,neonate,no,17,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:10,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C09A,15,23.7,female,neonate,no,17,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:17,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0,12,22.2,female,neonate,no,16,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:22,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0C2,14,23.1,male,neonate,no,22,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:27,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0AB,15,24,male,neonate,no,17,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:33,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0D9,15,23.7,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:39,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C09F,15,24.2,male,neonate,no,18,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:45,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0AF,17,25.1,male,neonate,no,22,1,no,no
+Great Basin Rattlesnake,9/6/2023 13:52,DenCheck,TS,alive,no,0,0,0,yes,3D6.1533E8C0EE,15,24.2,male,neonate,no,20,1,no,no
+Great Basin Rattlesnake,9/6/2023 20:43,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0C0,7,18.7,female,neonate,no,17,1,no,no
+Great Basin Rattlesnake,9/28/2023 14:12,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA10686,340,77.6,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,9/28/2023 14:27,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F5,249,67.6,female,Adult,yes,18,9,no,no
+Great Basin Rattlesnake,9/28/2023 14:37,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21272,343,75.1,male,Adult,no,25,6,no,no
+Great Basin Rattlesnake,9/28/2023 14:51,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD212A4,220,73.3,female,Adult,no,18,7,no,no
+Great Basin Rattlesnake,9/28/2023 14:59,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59804827,170,66.8,female,Adult,yes,18,10,no,no
+Great Basin Rattlesnake,9/28/2023 15:16,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2129A,198,71.2,female,Adult,no,18,4,no,no
+Great Basin Rattlesnake,9/28/2023 15:25,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21294,151,64.2,female,Adult,no,18,5,no,no
+Great Basin Rattlesnake,9/28/2023 15:35,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0B6,72,50.9,male,YOY,no,24,3,no,no
+Great Basin Rattlesnake,9/28/2023 15:44,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0C1,18,24.6,male,neonate,no,22,1,no,no
+Great Basin Rattlesnake,9/28/2023 16:09,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106CC,447,87.3,male,Adult,yes,25,6,no,no
+Great Basin Rattlesnake,9/28/2023 16:17,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1D59804833,455,83.4,male,Adult,yes,24,11,no,no
+Great Basin Rattlesnake,9/28/2023 16:29,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD212A6,331,78.2,male,Adult,no,23,6,no,no
+Great Basin Rattlesnake,9/28/2023 16:39,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106FE,471,87,male,Adult,yes,22,6,no,no
+Great Basin Rattlesnake,9/28/2023 16:50,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105EA,357,77.8,male,Adult,yes,24,10,no,no
+Great Basin Rattlesnake,9/28/2023 16:58,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA105FF,477,85.1,male,Adult,yes,22,5,no,no
+Great Basin Rattlesnake,9/28/2023 17:06,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD212B1,567,88.3,male,Adult,no,24,5,no,no
+Great Basin Rattlesnake,9/28/2023 17:17,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD212AA,185,61.5,male,Adult,no,24,6,no,no
+Great Basin Rattlesnake,9/28/2023 17:35,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106F9,196,69.2,female,Adult,yes,16,7,no,no
+Great Basin Rattlesnake,10/2/2023 20:23,DenCheck,EM,alive,no,0,0,0,yes,3D9.1A4FA1063B,183,64.1,female,Adult,yes,17,10,no,no
+Great Basin Rattlesnake,10/2/2023 21:04,DenCheck,EM,alive,no,0,0,0,yes,3D9.1A4FA10678,308,78,male,Adult,yes,23,1,no,no
+Great Basin Rattlesnake,10/2/2023 21:18,DenCheck,EM,alive,no,0,0,0,yes,3D9.1A4FD21296,160,65.6,female,Adult,no,18,8,no,yes
+Great Basin Rattlesnake,10/2/2023 21:49,DenCheck,EM,alive,no,0,0,0,yes,3D9.1A4FD21286,184,70.6,female,Adult,no,18,8,no,yes
+Great Basin Rattlesnake,10/2/2023 22:03,DenCheck,LC,alive,no,0,0,0,yes,3D9.1A4FA106FD,478,85.5,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,10/2/2023 22:30,DenCheck,LC,alive,no,0,0,0,yes,3D9.1A4FD21292,95,53.3,female,Juv,no,17,5,no,yes
+Great Basin Rattlesnake,10/2/2023 22:54,DenCheck,SP,alive,no,0,0,0,yes,3D9.1A4FD2127A,222,77.8,female,Adult,no,18,4,no,yes
+Great Basin Rattlesnake,10/2/2023 23:09,DenCheck,EM,alive,no,0,0,0,yes,3D9.1A4FD2129B,137,61.8,female,Adult,no,18,7,yes,yes
+Great Basin Rattlesnake,10/2/2023 23:39,DenCheck,LC,alive,no,0,0,0,yes,3D9.1A4FD2126A,384,82.5,male,Adult,no,25,7,no,no
+Great Basin Rattlesnake,10/2/2023 23:57,DenCheck,EM,alive,no,0,0,0,yes,3D9.1A4FD2128E,146,69.9,female,Adult,no,17,0,no,no
+Great Basin Rattlesnake,10/3/2023 0:14,DenCheck,LC,alive,no,0,0,0,yes,3D9.1A4FD2126E,461,83.1,male,Adult,no,23,8,no,no
+Great Basin Rattlesnake,10/3/2023 0:23,DenCheck,LC,alive,no,0,0,0,yes,3D9.1A4FD21265,103,51.2,male,YOY,no,23,3,no,no
+Great Basin Rattlesnake,10/3/2023 0:32,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0F3,45,49,male,YOY,no,24,3,no,no
+Great Basin Rattlesnake,10/3/2023 0:46,DenCheck,LC,alive,no,0,0,0,yes,3D6.1533E8C192,107,57.5,male,Adult,yes,21,1,no,no
+Great Basin Rattlesnake,10/10/2023 16:54,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21266,204,67.3,male,Adult,no,22,10,no,no
+Great Basin Rattlesnake,10/10/2023 17:05,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD212A2,199,66.9,male,Adult,no,23,6,no,no
+Great Basin Rattlesnake,10/10/2023 17:21,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21260,267,72.9,male,Adult,no,24,9,no,no
+Great Basin Rattlesnake,10/10/2023 17:30,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21295,180,61.7,female,Adult,no,16,8,no,no
+Great Basin Rattlesnake,10/10/2023 17:39,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21283,238,70,male,Adult,no,22,3,no,no
+Great Basin Rattlesnake,10/10/2023 17:49,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21270,94,51.6,male,Juv,no,24,5,no,no
+Great Basin Rattlesnake,10/10/2023 18:04,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2129D,105,55,male,Juv,no,22,5,no,no
+Great Basin Rattlesnake,10/10/2023 18:12,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21293,106,52.2,female,Juv,no,19,5,no,no
+Great Basin Rattlesnake,10/10/2023 18:19,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD212A3,72,47.2,male,Juv,no,23,4,no,no
+Great Basin Rattlesnake,10/10/2023 18:26,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C0A4,76,47.9,female,Juv,no,21,5,no,no
+Great Basin Rattlesnake,10/10/2023 18:35,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C099,79,45.6,female,Juv,no,17,3,no,no
+Great Basin Rattlesnake,10/10/2023 18:42,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C096,116,53.8,female,Juv,no,20,5,no,no
+Great Basin Rattlesnake,10/10/2023 18:51,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0A3,87,51.5,male,Juv,no,22,4,no,no
+Great Basin Rattlesnake,10/10/2023 18:58,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0C9,10,21.5,male,neonate,no,24,1,no,no
+Great Basin Rattlesnake,10/10/2023 19:08,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2129E,394,75.2,male,Adult,no,24,6,no,no
+Great Basin Rattlesnake,10/10/2023 19:14,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533C70127,560,87.8,male,Adult,yes,21,7,no,no
+Great Basin Rattlesnake,10/10/2023 19:18,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212B2,130,62.2,female,Adult,no,18,9,no,no
+Great Basin Rattlesnake,10/10/2023 19:24,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2125C,101,53.8,male,Juv,no,24,6,no,no
+Great Basin Rattlesnake,10/10/2023 19:30,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21290,61,42.2,female,Juv,no,19,3,no,no
+Great Basin Rattlesnake,10/10/2023 19:35,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21299,71,43.4,male,Juv,no,23,4,no,no
+Great Basin Rattlesnake,10/11/2023 16:21,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA105F5,527,90.2,male,Adult,yes,22,9,no,no
+Great Basin Rattlesnake,10/11/2023 16:30,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA1064E,450,81.6,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,10/11/2023 16:37,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA106C7,316,78.1,female,Adult,yes,19,7,no,no
+Great Basin Rattlesnake,10/11/2023 16:46,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2127C,342,74.4,female,Adult,no,17,10,no,no
+Great Basin Rattlesnake,10/11/2023 16:54,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2126C,159,64.3,female,Adult,no,19,4,no,no
+Great Basin Rattlesnake,10/11/2023 17:04,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212A7,123,58.5,male,Adult,no,25,5,no,no
+Great Basin Rattlesnake,10/11/2023 17:11,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0C6,52,42.6,male,Juv,no,22,3,no,no
+Great Basin Rattlesnake,10/11/2023 17:19,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0DF,69,46.9,male,Juv,no,23,4,no,no
+Great Basin Rattlesnake,10/11/2023 17:27,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0D3,12,23.2,male,neonate,no,24,1,no,no
+Great Basin Rattlesnake,10/11/2023 17:34,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0E6,12,24.5,female,neonate,no,17,1,no,no
+Great Basin Rattlesnake,10/11/2023 17:39,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0E0,16,26.4,male,neonate,no,21,1,no,no
+Great Basin Rattlesnake,10/11/2023 17:45,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0B7,11,22.8,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,10/11/2023 17:50,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0D5,13,23.9,male,neonate,no,22,1,no,no
+Great Basin Rattlesnake,10/11/2023 18:34,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21287,386,79.8,male,Adult,no,24,8,no,no
+Great Basin Rattlesnake,10/11/2023 18:39,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212AC,259,69.2,male,Adult,no,24,10,no,no
+Great Basin Rattlesnake,10/11/2023 18:45,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2125D,194,70.3,female,Adult,no,16,5,no,no
+Great Basin Rattlesnake,10/11/2023 18:51,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2128C,247,77.1,female,Adult,no,17,7,no,no
+Great Basin Rattlesnake,10/11/2023 18:58,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21285,124,63,female,Adult,no,16,9,no,no
+Great Basin Rattlesnake,10/11/2023 19:04,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21274,159,68.1,female,Adult,no,20,8,no,no
+Great Basin Rattlesnake,10/11/2023 19:10,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2128D,280,69.3,male,Adult,no,23,8,no,no
+Great Basin Rattlesnake,10/11/2023 19:19,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21281,301,79.2,male,Adult,no,22,9,no,no
+Great Basin Rattlesnake,10/11/2023 19:28,DenCheck,CF,alive,no,0,0,0,yes,3D9.14A4FD2125E,150,61.5,male,Adult,no,24,8,no,no
+Great Basin Rattlesnake,10/11/2023 19:34,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212BC,215,65.1,male,Adult,no,23,6,no,no
+Great Basin Rattlesnake,10/11/2023 19:41,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA106B7,372,76.4,male,Adult,yes,23,3,no,no
+Great Basin Rattlesnake,10/11/2023 19:47,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21276,195,58.7,female,Adult,no,21,6,no,no
+Great Basin Rattlesnake,10/11/2023 19:55,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21269,227,68.4,male,Adult,no,22,8,no,no
+Great Basin Rattlesnake,10/18/2023 15:04,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2128F,300,74.6,male,Adult,no,21,7,no,no
+Great Basin Rattlesnake,10/18/2023 15:14,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2125F,119,59.3,female,Adult,no,19,5,no,no
+Great Basin Rattlesnake,10/18/2023 15:24,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2125B,284,74.9,male,Adult,no,21,10,no,no
+Great Basin Rattlesnake,10/18/2023 15:31,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2128B,134,64,female,Adult,no,19,8,no,no
+Great Basin Rattlesnake,10/18/2023 15:42,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD21291,186,67.3,male,Adult,no,25,6,no,no
+Great Basin Rattlesnake,10/18/2023 16:53,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2127E,278,72.4,male,Adult,no,21,5,no,no
+Great Basin Rattlesnake,10/18/2023 17:02,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212B0,138,55.1,male,Juv,no,25,5,no,no
+Great Basin Rattlesnake,10/18/2023 17:10,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212B6,132,65,female,Adult,no,20,6,no,no
+Great Basin Rattlesnake,10/18/2023 17:23,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21271,176,64.3,male,Adult,no,22,7,no,no
+Great Basin Rattlesnake,10/18/2023 17:30,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA106FF,362,80.6,male,Adult,yes,22,8,no,no
+Great Basin Rattlesnake,10/18/2023 17:38,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA1067A,179,63.1,female,Adult,yes,18,8,no,no
+Great Basin Rattlesnake,10/18/2023 17:48,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA10666,275,73.1,male,Adult,yes,24,8,no,no
+Great Basin Rattlesnake,10/18/2023 17:54,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FA1064C,290,80.2,female,Adult,yes,20,5,no,no
+Great Basin Rattlesnake,10/18/2023 18:02,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C183,187,71.3,female,Adult,yes,18,9,no,no
+Great Basin Rattlesnake,10/18/2023 18:09,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212B9,99,53.6,female,Juv,no,18,4,no,no
+Great Basin Rattlesnake,10/18/2023 18:26,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212AE,59,44.3,male,Juv,no,24,3,no,no
+Great Basin Rattlesnake,10/18/2023 18:34,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C178,65,42,male,Juv,yes,25,3,no,no
+Great Basin Rattlesnake,10/18/2023 18:41,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212A0,36,38.9,female,Juv,no,19,2,no,no
+Great Basin Rattlesnake,10/18/2023 18:48,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212AB,22,34.5,female,YOY,no,19,2,no,no
+Great Basin Rattlesnake,10/18/2023 18:54,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212B3,12,22.6,male,neonate,no,20,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:00,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21262,12,24.9,male,neonate,no,18,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:06,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD212A1,15,25.6,male,neonate,no,18,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:11,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21284,13,23.8,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:15,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2127F,9,23.3,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:20,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD21278,13,24.3,male,neonate,no,25,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:26,DenCheck,CF,alive,no,0,0,0,yes,3D9.1A4FD2127D,12,23.9,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:31,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C098,16,25.1,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:35,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0E2,14,25.7,male,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:41,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0B1,11,22.2,female,neonate,no,16,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:47,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C0F4,12,23.3,male,neonate,no,23,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:53,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C14F,11,23.3,male,neonate,no,26,1,no,no
+Great Basin Rattlesnake,10/18/2023 19:57,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C140,10,22.7,female,neonate,no,19,1,no,no
+Great Basin Rattlesnake,10/18/2023 20:02,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C128,11,23.3,male,neonate,no,20,1,no,no
+Great Basin Rattlesnake,10/19/2023 19:36,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FD2128A,121,61.4,female,Adult,no,20,7,no,no
+Great Basin Rattlesnake,10/19/2023 19:45,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C1AC,84,50,female,Juv,yes,16,5,no,no
+Great Basin Rattlesnake,10/19/2023 19:52,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C131,120,61.3,female,Adult,no,18,6,no,no
+Great Basin Rattlesnake,10/19/2023 20:02,DenCheck,Cf,alive,no,0,0,0,yes,3D6.1533E8C127,15,27.5,female,neonate,no,16,1,no,no
+Great Basin Rattlesnake,9/28/2020,incidental,NS,unknown,unknown,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,9/28/2020,incidental,NS,unknown,unknown,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,9/28/2020,incidental,NS,unknown,unknown,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,9/28/2020,incidental,NS,unknown,unknown,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,7/15/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,6/18/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,5/11/2020,active search,NGS,alive,no,0,0,0,no, ,219,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,9/29/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/12/2020,active search,NGS,alive,no,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/5/2020,active search,NGS,alive,no,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,5/5/2020,active search, ,alive,no,0,0,0,no, ,0,0,unknown,adults,no,,,no,no
+Great Basin Rattlesnake,5/25/2020,active search,NGS,alive,no,0,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Great Basin Rattlesnake,9/26/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,7/8/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70129,350,75,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008ES,294,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,7/9/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C7012F,515,85,female,adult,no,17,10,no,no
+Great Basin Rattlesnake,5/28/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D59804861,356,57,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/8/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70129,350,75,female,adult,no,18,6,no,no
+Great Basin Rattlesnake,5/28/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D5980483B,319,70.5,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/16/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD217,303,68,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/16/2020,active search,ns,alive,no,0,0,0,yes,3D6.1D59ABD217,303,68,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.159A008E5,298,71,female,adult,no,18,8,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70124,285,67,female,adult,no,,,no,no
+Great Basin Rattlesnake,5/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59804820,278,64,female,adult,no,,,no,no
+Great Basin Rattlesnake,7/1/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70112,276,68,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D19,257,65,female,adult,no,16,8,no,no
+Great Basin Rattlesnake,5/21/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D5980484E,256,72,female,adult,no,,,no,no
+Great Basin Rattlesnake,6/29/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700DD,251,63,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70111,247,62,female,adult,no,17,4,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70107,234,62,female,adult,no,17,4,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D5A,234,61,female,adult,no,17,8,no,no
+Great Basin Rattlesnake,8/10/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C7011D,210,61,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C7011F,210,61,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D4A,207,60,female,adult,no,19,5,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D0D,200,60,female,adult,no,19,8,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008EB,198,61,female,adult,no,18,7,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700ES,190,59,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D4E,183,57,female,adult,no,20,6,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008D9,143,62,female,adult,no,18,7,no,no
+Great Basin Rattlesnake,7/9/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C7010F,141,54,female,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008D4,141,61,female,adult,no,18,9,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D10,138,60,female,adult,no,19,8,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70131,126,60,female,adult,no,,,no,no
+Great Basin Rattlesnake,8/27/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008CF,124,61,female,adult,no,19,0,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D59,117,56,female,adult,no,17,5,no,no
+Great Basin Rattlesnake,7/2/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700E3,187,56,female,juv,no,,,no,no
+Great Basin Rattlesnake,6/2/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1DF,166,54,female,juv,no,,,no,no
+Great Basin Rattlesnake,5/25/2020,active search,NGS,alive,no,0,0,0,yes,3D6.1D59ABD219,148,53,female,juv,no,,,no,no
+Great Basin Rattlesnake,5/19/2020,active search,NGS,alive,no,0,0,0,yes,3D6.1D59ABD1DA,126,54,female,juv,no,,,no,no
+Great Basin Rattlesnake,7/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70127,604,91,male,adult,no,,,no,no
+Great Basin Rattlesnake,7/8/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700F5,592,90,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,0,0,0,yes,3DD.003D4501BA,507,83,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/23/2020,active search,NS,alive,no,0,0,0,yes,3DD.003D4501BA,507,83,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D2F,480,88,male,adult,no,21,10,no,no
+Great Basin Rattlesnake,7/6/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700F1,477,83,male,adult,no,24,12,no,no
+Great Basin Rattlesnake,7/1/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70100,477,83,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/4/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D5980486F,473,82.4,male,adult,no,,,no,no
+Great Basin Rattlesnake,7/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700F8,439,81,male,adult,no,24,11,no,no
+Great Basin Rattlesnake,6/30/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D59A00D05,411,79,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D0B,383,85,male,adult,no,23,8,no,no
+Great Basin Rattlesnake,6/4/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D5980482C,364,65,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D2C,363,80,male,adult,no,23,9,no,no
+Great Basin Rattlesnake,7/8/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700F3,353,71,male,adult,no,24,11,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D30,317,77,male,adult,no,22,9,no,no
+Great Basin Rattlesnake,8/18/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70123,311,77,male,adult,no,24,8,no,no
+Great Basin Rattlesnake,6/4/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D59804862,309,66,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A0090A,304,80,male,adult,no,24,12,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D0F,297,75,male,adult,no,24,9,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008E8,270,72,male,adult,no,23,6,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00901,261,70,male,adult,no,23,10,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00916,260,70,male,adult,no,23,4,no,no
+Great Basin Rattlesnake,6/2/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1EC9,260,63,male,adult,no,,,no,no
+Great Basin Rattlesnake,7/14/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700EB,259,70,male,adult,no,23,9,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008E1,254,71,male,adult,no,17,7,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008F3,254,71,male,adult,no,24,10,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D62,244,70,male,adult,no,23,10,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C7011C,240,75,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D24,224,70,male,adult,no,23,10,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008F9,216,71,male,adult,no,23,9,no,no
+Great Basin Rattlesnake,9/23/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00915,211,66,male,adult,no,23,8,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70121,198,66,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008D1,196,68,male,adult,no,22,11,no,no
+Great Basin Rattlesnake,5/14/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1EA,192,56,male,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D38,190,63,male,adult,no,23,8,no,no
+Great Basin Rattlesnake,9/21/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D48,181,64,male,adult,no,24,6,no,no
+Great Basin Rattlesnake,9/22/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D44,143,57,male,adult,no,24,6,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70137,116,58,male,adult,no,19,8,no,no
+Great Basin Rattlesnake,5/18/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1FO,186,56,male,juv,no,,,no,no
+Great Basin Rattlesnake,6/30/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D59A00D3E,152,55,male,juv,no,23,7,no,no
+Great Basin Rattlesnake,6/3/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59804827,148,54,male,juv,no,,,no,no
+Great Basin Rattlesnake,7/1/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70138,139,57,male,juv,no,20,3,no,no
+Great Basin Rattlesnake,5/25/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1DO,135,53,male,juv,no,,,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008D8,102,54,male,juv,no,20,6,no,no
+Great Basin Rattlesnake,7/29/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70113,61,43,male,juv,no,23,4,no,no
+Great Basin Rattlesnake,5/14/2020,active search,CF,alive,no,0,0,0,yes,3D6.1D59804830,239,58,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,6/8/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1BF,272,69,female,adult,yes,,,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D5A,246,61,female,adult,yes,17,8,no,no
+Great Basin Rattlesnake,6/25/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1F,204,64,female,adult,yes,,,no,no
+Great Basin Rattlesnake,6/10/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59ABD1E4,195,56,female,adult,yes,,,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008D4,134,62,female,adult,yes,,,no,no
+Great Basin Rattlesnake,9/28/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A00D59,129,55,female,adult,yes,,,no,no
+Great Basin Rattlesnake,9/14/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C700F5,410,90,male,adult,yes,20,10,no,no
+Great Basin Rattlesnake,5/19/2020,active search,NGS,alive,no,0,0,0,yes,3D6.1D59804832,242,64,male,juv,yes,,,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1D59A008D4,134,0,unknown,adult,yes,,,no,no
+Great Basin Rattlesnake,9/30/2020,active search,NS,alive,no,0,0,0,yes,3D6.1533C70DOD,0,0,unknown,adult,yes,,,no,no
+Great Basin Rattlesnake,9/14/2020,driving,NS,alive,no,0,0,0,yes,3D6.1D59A008DC,207,59,female,adult,no,19,6,no,no
+Great Basin Rattlesnake,8/24/2020,driving,NS,alive,no,0,0,0,yes,3D6.1D59A00D1E,376,76,male,adult,no,21,10,no,no
+Great Basin Rattlesnake,7/15/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,9/4/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Great Basin Rattlesnake,9/22/2020,incidental,NS,alive,no,0,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Great Basin Rattlesnake,7/8/2020,incidental,NS,alive,no,0,0,0,yes,3D6.1533C70117,520,87,male,adult,no,24,12,no,no
+Great Basin Rattlesnake,8/27/2020,reported,NS,alive,no,0,0,0,yes,3D6.1D59A00D04,311,78,male,adult,no,,,no,no
+Great Basin Rattlesnake,6/5/2020,telemetey, , , ,0,0,0,no,,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,6/26/2020,telemetry, , , ,0,0,0,no,,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,6/26/2020,telemetry, , , ,0,0,0,no,,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,6/5/2020,telemetry release, , , ,0,0,0,no,,0,0,unknown,unknown,no,,,no,no
+Great Basin Rattlesnake,4/28/2021,reported,cons crew, alive,no,0,0,0,no, ,0, ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,5/3/2021,Den check,cf,alive,no,0,0,0,no, ,0, ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,6/29/2021,driving,BP,alive,no,0,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,6/28/2021,incidental,Jen Edgel,alive,no,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,9/8/2021,driving,cf,dead,yes,0,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,7/13/2021,driving,cf,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,6/3/2021,reported,cf,dead,no,0,0,0,no, ,247,56.5,male,adult,no,24,1,no,no
+Great Basin Rattlesnake,5/26/2021,driving,BP,alive,no,0,0,0,yes,3D6.1533E8C09C,155,69,male,adult,no,21,8,no,no
+Great Basin Rattlesnake,9/21/2021,reported,Cf,alive,no,0,0,0,yes,3D9.1A4FA10705,15,25.9,female,neonate,no,18,1,no,no
+Great Basin Rattlesnake,5/19/2021,reported,cons crew,alive,no,0,0,0,yes,3D6.1533E8C0E1,18,28,male,neonate,no,28,1,no,no
+Great Basin Rattlesnake,5/19/2021,active search,cf,alive,no,0,0,0,yes,3D9.1A4FA106A8,319,72.5,male,adult,no,23,8,yes,yes
+Great Basin Rattlesnake,5/20/2021,reported,cf,alive,no,0,0,0,yes,3D9.1A4FA1069C,362,73.5,male,adult,no,21,5,yes,yes
+Great Basin Rattlesnake,6/10/2021,reported,"Chris F, Jen E.",alive,no,0,0,0,yes,3D6.1533E8C0BD,174,57.5,male,adult,no,23,4,yes,yes
+Great Basin Rattlesnake,9/9/2022,active search,TS,alive,no,0,0,0,no, , , ,unknown,neonate,no,0,0,no,no
+Great Basin Rattlesnake,5/25/2022,driving,cf,dead,yes,0,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,5/19/2022,driving,cf,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,5/26/2022,driving,cf,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Great Basin Rattlesnake,7/19/2022,incidental,Grainne,dead,no,0,0,0,no, , , ,unknown,juv,no,0,2,no,no
+Great Basin Rattlesnake,6/2/2022,incidental,TS,NA,NA,0,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,5/31/2022,active search,Cf,alive,no,0,0,0,yes,3D6.1533E8C170,17,25.9,female,YOY,yes,15,1,no,no
+Great Basin Rattlesnake,5/18/2022,incidental,Grainne,alive,no,0,0,0,yes,3D9.1A4FA106F1,172,65.5,female,adult,no,17,7,no,yes
+Great Basin Rattlesnake,5/25/2022,incidental,Grainne,alive,no,0,0,0,yes,3D9.1A4FA106D9,178,63.3,female,adult,no,18,6,no,yes
+Great Basin Rattlesnake,5/18/2022,incidental,CF,alive,no,0,0,0,yes,3D9.1A4FA106CB,271,70,female,adult,no,18,3,no,yes
+Great Basin Rattlesnake,7/25/2023 17:00,reported,Cf,alive,no,0,0,0,yes,3D6.1533E8C0D3,44,41.9,male,juv,no,28,3,no,no
+Great Basin Rattlesnake,5/17/2023 20:59,driving,JB,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,3,no,no
+Great Basin Rattlesnake,6/13/2023 21:43,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,8,no,no
+Great Basin Rattlesnake,8/22/2023 17:37,reported,TS,alive,no,0,0,0,yes,3D9.1A4FD212AD,459,86.6,male,adult,no,22,9,no,no
+Great Basin Rattlesnake,8/30/2023 18:41,driving,Liz Bergin,dead,yes,0,0,0,no,,,,unknown,juv,no,0,0,no,no
+Great Basin Rattlesnake,8/31/2023 15:30,incidental,Cf,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,6/21/2023 17:31,active search,TS,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,6/12/2023 15:25,driving,JB,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,7/11/2023 15:58,driving,TS,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,5/24/2023 16:53,incidental,CH,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Great Basin Rattlesnake,10/3/2019 20:28,driving,cf,alive,no,,82,,No,,,,,juv,,,,,
+Great Basin Rattlesnake,9/30/2019 21:35,driving,cf,dead,yes,58,80,,No,,,,,juv,,,,,
+Great Basin Rattlesnake,5/16/2019 16:31,driving,cf,alive,no,68,75,,No,,,,,,,,,,
+Great Basin Rattlesnake,6/30/2022,incidental,TS,alive,no,81,,,yes,3D9.1A4FA1065D,314,73.5,male,adult,no,25,6,no,yes
+Great Basin Rattlesnake,7/29/2019 16:04,incidental,,Alive ,N,82,,,No,,,,,,,,,,
+Great Basin Rattlesnake,6/19/2019 16:55,incidental,JS,Alive,,80,,,No,,,,,Adult,,,,,
+Great Basin Rattlesnake,6/6/2019 18:40,incidental,,Alive,,80,,,No,,,,,,,,,,
+Great Basin Rattlesnake,9/20/2018 16:30,active search,Cf,Alive,No,,,,,,,,,,,,,,
+Great Basin Rattlesnake,4/27/2019 18:14,active search,"cf, sh",alive,no ,,,,,,,,,,,,,,
+Great Basin Rattlesnake,10/3/2019 21:12,driving,cf,dead,yes,,,,No,,,,,juv,,,,,
+Great Basin Rattlesnake,6/26/2018 13:50,incidental,,Alive,N,,,,,,,,,,,,,,
+Great Basin Rattlesnake,7/18/2018 16:30,incidental,,Alive,N,,,,,,,,,,,,,,
+Great Basin Rattlesnake,6/14/2018 17:02,reported,,Alive,N,,,,,,,,,,,,,,
+Great Basin Rattlesnake,6/7/2019 0:14,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Great Basin Rattlesnake,6/6/2019 23:07,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Great Basin Rattlesnake,8/15/2019 15:35,incidental,cf,alive,no,,,,No,,,,,,,,,,
+Great Basin Rattlesnake,5/15/2019 17:11,incidental,JS,Alive,N,,,,No,,,,,,,,,,
+Great Basin Rattlesnake,8/15/2019 15:38,incidental,cf,alive,no,,,,No,,,,,,,,,,
+Striped Whipsnake,5/19/2020,driving,cf,alive,no,73,98,97,yes,3D6.1D596DF69A,67,72,male,adult,no,,,no,no
+Striped Whipsnake,6/5/2019 16:20,driving,cf,alive,no ,71,94,96,yes,3D6.1D596E5767,95,74,female ,adult,no,,,,
+Striped Whipsnake,5/18/2020,driving,cf,alive,no,79,92,92,yes,3D6.1D596DF6C9,71,74,female,adult,no,,,no,no
+Striped Whipsnake,5/7/2020,incidental,NGS,alive,no,62,106,86,yes,3D6.1D596DF6AA,281,90,male,adult,no,,,no,no
+Striped Whipsnake,5/27/2020,driving,cf,alive,no,69,74,84,yes,3D6.1D59ABD1D5,109,78,male,adult,no,,,no,no
+Striped Whipsnake,9/22/2020,incidental,NS,alive,no,65,76,78,no, ,0,0,unknown,unknown,no,,,no,no
+Striped Whipsnake,5/19/2022,cover board,TS,alive,no,74,76,0,no, , , ,unknown,adult,no,0,0,no,no
+Striped Whipsnake,5/26/2023 16:27,driving,TS,alive,no,73,71,0,no,,,,unknown,adult,no,0,0,no,no
+Striped Whipsnake,9/17/2020,incidental,NS,alive,no,80,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Striped Whipsnake,5/3/2023 19:30,active search,TS,alive,no,78,0,0,no,,,,unknown,adult,no,0,0,no,no
+Striped Whipsnake,9/10/2021,incidental,BP,alive,no,77,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Striped Whipsnake,5/21/2020,active search,Rob,alive,no,74,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Striped Whipsnake,9/1/2021,driving,BP,dead,yes,70,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Striped Whipsnake,9/28/2021,active search,BP,alive,no,68,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Striped Whipsnake,9/29/2021,active search,BP,alive,no,64,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Striped Whipsnake,5/3/2022 20:33,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106BA,73,70.9,male,Adult,no,,,no,no
+Striped Whipsnake,9/16/2020,active search,"CF, NS",alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Striped Whipsnake,9/2/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Striped Whipsnake,7/22/2020,active search,NS,NA,NA,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Striped Whipsnake,5/4/2020,active search,cf,dead,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Striped Whipsnake,5/17/2021,incidental,BP,alive,no,0,0,0,no, ,0, ,unknown,unknown,no,0,0,no,no
+Striped Whipsnake,6/2/2022,driving,TS,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Striped Whipsnake,5/26/2022,incidental,Gr inne,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Striped Whipsnake,8/31/2023 18:07,driving,cf,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Striped Whipsnake,6/21/2023 18:24,driving,JB,dead,yes,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Striped Whipsnake,9/1/2021,driving,cf,dead,yes,76,,,no, , , ,unknown,unknown,no,0,0,yes,no
+Striped Whipsnake,6/13/2019 19:02,driving,shantell,dead,yes,,,,No,,,,,adult,no,,,,
+Striped Whipsnake,6/13/2019 17:53,driving,Shantell,Dead,Yes,,,,No,,,,,,,,,,
+Striped Whipsnake ,5/7/2020,active search,NS,NA,NA,51,50,49,no, ,0,0,unknown,unknown,no,,,no,no
+Utah Milk Snake,5/8/2023 18:18,active search,hm,alive,no,69,73,88,yes,3D6.1533E8C0C5,27,47.7,male,adult,no,0,0,yes,no
+Utah Milk Snake,5/8/2023 17:14,active search,jb,alive,no,64,52,68,yes,3D6.1533E8C10F,46,43,male,adult,no,0,0,no,no
+Utah Milk Snake,5/12/2023 15:19,active search,RJ,alive,no,60,54,61,yes,3D6.1533E8C0ED,66,62.2,male,adult,no,0,0,no,no
+Utah Milk Snake,10/18/2023 20:08,DenCheck,CF,alive,no,0,0,0,yes,3D6.1533E8C122,5,20.3,unknown,neonate,no,,,no,no
+Utah Milk Snake,7/6/2018 17:07,incidental,,dead,N,,,,,,,,,,,,,,
+Wandering Garter Snake,4/30/2020,driving,cf,alive,no,0,79,80,no, ,0,0,unknown,adult,no,,,no,no
+Wandering Garter Snake,5/15/2023 19:58,incidental,TS,alive,no,78,81,79,no,,,,unknown,YOY,no,0,0,no,no
+Wandering Garter Snake,4/27/2022,incidental,Tug Simmons,alive,no,65,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Wandering Garter Snake,5/11/2022,driving,TS,alive,no,64,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Wandering Garter Snake,5/20/2020,incidental,NGS,dead,yes,63,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Wandering Garter Snake,7/27/2022,incidental,Grainne,alive,no,0,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Wandering Garter Snake,6/21/2022,other,TS,alive,no,0,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Wandering Garter Snake,6/17/2019 19:17,active search,cf,alive,no,,,,No,,,,,,,,,,
+Wandering Garter Snake,8/5/2019 16:12,incidental,cf,alive,no,,,,No,,,,,,no,,,,
+Yellow-bellied Racer,7/21/2020,active search,NS,alive,no,80,124,105,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,6/23/2020,active search,NS,alive,no,74,80,95,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/16/2022,driving,cf,alive,no,85,93,93,yes,3D9.1A4FA106D3,79,53.2,male,adult,no,0,0,no,no
+Yellow-bellied Racer,5/15/2019 16:39,driving,cf,alive,no,70,95,91,yes,3D6.1D596E5755,45,46.5,f,,,,,,
+Yellow-bellied Racer,5/6/2020,driving,cf,alive,no,77,94,91,yes,3D6.1D59804855,222,57,male,adult,no,,,no,no
+Yellow-bellied Racer,6/9/2020,active search,cf,alive,no,60,87,89,yes,3D6.1D59ABD1E2,131,63,female,adult,no,,,no,no
+Yellow-bellied Racer,5/19/2020,incidental,NS,alive,no,75,84,87,yes,3D6.1D59ABD1D8,51,53,female,adult,no,,,no,no
+Yellow-bellied Racer,10/3/2019 21:17,driving,cf,dead,no,68,86,86,yes,3D6.1D59804819,87,60,male,adult,no,,,,
+Yellow-bellied Racer,6/16/2022,driving,TS,alive,no,74,82,86,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,5/27/2020,driving,cf,alive,no,71,80,86,yes,3D6.1D59ABD1C4,65,51,unknown,adult,no,,,no,no
+Yellow-bellied Racer,4/27/2022,driving,Cf,alive,no,74,85,85,yes,3D6.1533E8C18D,39,48.7,female,juv,no,0,0,no,no
+Yellow-bellied Racer,5/26/2020,incidental,NGS,alive,no,76,82,85,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/15/2019 22:16,driving,cf,alive,no,76,88,84,yes,3D6.1D596E572E,67,57,male,,,,,,
+Yellow-bellied Racer,5/18/2020,active search,NGS,alive,no,68,80,84,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,6/16/2020,incidental,NS,alive,no,68,80,81,yes,3D6.1D59ABD1CF,96,71,female,adult,no,,,no,no
+Yellow-bellied Racer,10/15/2019 21:02,driving,cf,alive,no,64,79,81,No,,6,39,too young,juv,no,,,,
+Yellow-bellied Racer,10/15/2019 20:57,driving,cf,alive,no,64,75,80,yes,3D6.1D596DF691,38,45,female,adult,no,,,,
+Yellow-bellied Racer,9/30/2019 19:57,driving,cf,alive,no,54,75,79,yes,3D6.1D596DF6A0,40,46,female,adult,no,,,,
+Yellow-bellied Racer,10/1/2019 20:03,driving,cf,alive,no ,,73,76,No,,13,25,,juv,no,,,,
+Yellow-bellied Racer,6/17/2020,active search,NS,alive,no,57,74,75,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,9/14/2021,driving,cf,alive,no,73,0,74,yes,3D6.1533E8C149,15,35.8,female,juv,no,0,0,yes,no
+Yellow-bellied Racer,5/27/2020,active search,NGS,alive,no,65,65,66,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/13/2020,active search,NGS,alive,no,58,62,64,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,5/13/2020,active search,NGS,alive,no,58,65,60,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,5/7/2020,incidental,NGS,alive,no,50,47,45,yes,3D6.1D59ABD1F2,77,59,male,adult,no,,,no,no
+Yellow-bellied Racer,5/18/2022,driving,TS,alive,no,75,101,0,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/12/2023 16:39,incidental,TS,alive,no,69,89,0,yes,3D6.1533E8C0E9,98,75.5,female,adult,no,0,0,no,no
+Yellow-bellied Racer,5/31/2022,driving,TS,alive,no,63,89,0,no, , , ,unknown,juv,no,0,0,no,no
+Yellow-bellied Racer,8/20/2020,active search,NS,alive,no,82,85,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,4/28/2023 20:16,incidental,TS,alive,no,66,81,0,no,,,,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/8/2022,driving,TS,alive,no,85,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/9/2021,driving,BP,alive,no,84,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,8/18/2020,driving,NS,dead,yes,83,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Yellow-bellied Racer,4/29/2020,incidental,NGS,alive,no,83,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,7/28/2023 16:03,driving,TS,dead,yes,82,0,0,no,,,,unknown,juv,no,0,0,no,no
+Yellow-bellied Racer,9/12/2023 20:30,driving,TS,alive,no,82,0,0,no,,,,unknown,juv,no,0,0,no,no
+Yellow-bellied Racer,6/4/2020,incidental,JL,alive,no,80,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,5/27/2020,incidental,NGS,alive,no,80,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/28/2020,incidental,NS,dead,yes,80,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,8/3/2020,incidental,NS,alive,no,79,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,7/2/2021,driving,BP,alive,no,79,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,5/28/2020,incidental,NS,alive,no,78,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/3/2023 19:30,active search,TS,alive,no,78,0,0,no,,,,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/25/2020,incidental,NS,alive,no,76,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/6/2022,incidental,TS,alive,no,76,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/16/2022,incidental,TS,alive,no,76,0,0,no, , , ,unknown,juv,no,0,0,no,no
+Yellow-bellied Racer,6/3/2020,active search,NS,alive,no,75,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,5/19/2020,incidental,NGS,alive,no,74,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/19/2020,incidental,NGS,alive,no,73,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,6/11/2020,incidental,NS,dead,yes,72,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/16/2023 16:45,incidental,TS,alive,no,71,0,0,no,,,,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,9/21/2020,active search,NS,alive,no,70,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,9/1/2020,incidental,NS,alive,no,70,0,0,no, ,0,0,unknown,neonate,no,,,no,no
+Yellow-bellied Racer,5/18/2020,active search,NGS,alive,no,68,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,9/11/2023 14:05,driving,TS,alive,no,68,0,0,no,,,,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/10/2021,active search,BP,alive,no,66,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,9/7/2021,incidental,BP,alive,no,66,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,9/28/2021,driving,cf,dead,yes,66,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,9/28/2021,driving,cf,alive,no,66,0,0,yes,3D6.1533E8C173,66,53.1,female,adult,no,0,0,no,no
+Yellow-bellied Racer,6/15/2020,incidental,NS,dead,yes,65,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,5/27/2020,pit fall trap,NGS,alive,no,65,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,9/23/2021,pit fall trap,cf,alive,no,65,0,0,yes,3D6.1533E8C19D,19,39.1,male,juv,no,0,0,yes,no
+Yellow-bellied Racer,4/28/2022,driving,Cf,alive,no,65,0,0,yes,3D6.1533E8C1B4,39,36.4,male,adult,no,0,0,no,no
+Yellow-bellied Racer,9/25/2020,active search,NS,alive,no,64,0,0,no, ,0,0,unknown,juv,no,,,no,no
+Yellow-bellied Racer,9/29/2021,active search,BP,alive,no,64,0,0,no, , , ,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,5/25/2020,active search,NGS,alive,no,63,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,10/5/2023 21:58,driving,cf,dead,yes,63,0,0,no,,96,61.5,male,adult,no,0,0,no,no
+Yellow-bellied Racer,10/5/2023 21:36,driving,cf,dead,yes,63,0,0,no,,11,26.1,male,YOY,no,0,0,no,no
+Yellow-bellied Racer,5/14/2020,incidental,NGS,alive,no,62,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,9/21/2023 18:04,driving,cf,alive,no,56,0,0,yes,3D6.1533E8C0DD,70,51.7,male,adult,no,0,0,no,no
+Yellow-bellied Racer,6/8/2020,incidental, ,alive,no,50,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,10/26/2020,incidental,cf,alive,no,30,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,9/13/2021 22:31,DenCheck,"CF, JE",alive,no,0,0,0,yes,3D9.1A4FA10703,53,61.9,male,Adult,no,,,no,no
+Yellow-bellied Racer,9/14/2021 20:27,DenCheck,BP,alive,no,0,0,0,yes,3D6.1533E8C149,15,35.8,female,Juv,no,70,,yes,no
+Yellow-bellied Racer,10/6/2021 20:02,DenCheck,cf,alive,no,0,0,0,yes,3d6.1533e8c1b9,30,37.92,female,Juv,no,,,no,
+Yellow-bellied Racer,5/3/2022 20:21,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106C0,36,45.4,male,Adult,no,,,no,no
+Yellow-bellied Racer,5/3/2022 20:26,DenCheck,Cf,alive,no,0,0,0,yes,3D9.1A4FA106E7,41,49.1,female,Adult,no,,,no,no
+Yellow-bellied Racer,8/7/2020,active search,NS,dead,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,7/14/2020,active search,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,5/12/2020,driving,cf,dead,yes,0,0,0,no, ,0,0,unknown,adult,no,,,no,no
+Yellow-bellied Racer,5/11/2020,driving,ns,alive,no,0,0,0,yes,3D6.1D59804813,111,63,male,adult,no,,,no,no
+Yellow-bellied Racer,9/2/2020,incidental,NS,alive,no,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,7/9/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,7/8/2020,incidental,NS,dead,yes,0,0,0,no, ,0,0,unknown,unknown,no,,,no,no
+Yellow-bellied Racer,5/19/2020,incidental,NGS,alive,no,0,0,0,yes,3D6.1D59ABD203,40,46,male,adult,no,,,no,no
+Yellow-bellied Racer,5/26/2020,incidental,NS,alive,no,0,0,0,yes,3D6.1D59ABD1F9,37,46,male,adult,no,,,no,no
+Yellow-bellied Racer,9/13/2021,incidental,cf,alive,no,0,0,0,yes,3D6.1A4FA10703,53,61.9,male,adult,no,0,0,yes,no
+Yellow-bellied Racer,6/22/2022,driving,TS,dead,yes,0,0,0,no, ,84,66.5,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,5/6/2022,driving,TS,dead,yes,0,0,0,no, , , ,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/30/2022,incidental,cf,alive,no,0,0,0,yes,3D9.1A4FA106E9,88,56,female,adult,no,0,0,no,no
+Yellow-bellied Racer,6/30/2022,incidental,cf,alive,no,0,0,0,yes,3D9.1A4FA106BD,77,59.3,female,adult,no,0,0,no,no
+Yellow-bellied Racer,6/28/2023 17:02,driving,cf,alive,no,0,0,0,yes,3D6.1533E8C0CE,53,78.4,female,adult,no,0,0,no,no
+Yellow-bellied Racer,10/4/2023 13:48,incidental,Liz Bergin,alive,no,0,0,0,no,,,,unknown,neonate,no,0,0,no,no
+Yellow-bellied Racer,6/12/2023 21:35,incidental,CH,alive,no,0,0,0,no,,,,unknown,YOY,no,0,0,no,no
+Yellow-bellied Racer,5/30/2023 16:16,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,6/20/2023 17:54,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,6/20/2023 21:27,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,7/6/2023 16:28,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,5/17/2023 19:44,incidental,Malala,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,5/30/2023 17:30,driving,JB,alive,no,0,0,0,no,,,,unknown,unknown,no,0,0,no,no
+Yellow-bellied Racer,6/12/2019 16:43,driving,cf,dead,yes,70,100,,No,,,,,juv,no,,,,
+Yellow-bellied Racer,6/12/2019 16:03,driving,cf,alive,no ,68,92,,No,,,,,,,,,,
+Yellow-bellied Racer,9/30/2019 21:12,driving,cf,alive,no,60,88,,No,,,,,,,,,,
+Yellow-bellied Racer,8/6/2019 15:54,cover board,cf,alive,no,78,87,,No,,,,,adult,no,,,,
+Yellow-bellied Racer,9/30/2019 21:19,driving,cf,dead,yes,58,86,,No,,25,39,,,no,,,,
+Yellow-bellied Racer,7/9/2019 15:40,driving,cf,alive,no ,73,82,,No,,,,,adult,no,,,,
+Yellow-bellied Racer,10/1/2019 20:34,driving,cf,alive,no,58,82,,No,,,,,adult,,,,,
+Yellow-bellied Racer,10/23/2019 18:10,active search,cf,alive,no,55,77,,No,,,,,juv,no,,,,
+Yellow-bellied Racer,5/18/2022,driving,Cf,dead,yes,,,,no, ,40,41.5,unknown,adult,no,0,0,no,no
+Yellow-bellied Racer,6/4/2019 17:16,incidental,JS,Alive,N,84,,,,,,,,,,,,,
+Yellow-bellied Racer,7/10/2019 17:15,incidental,cf,alive,no,80,,,No,,,,,,,,,,
+Yellow-bellied Racer,9/26/2019 19:42,pit fall trap,JS,Alive,,75,,,No,,9,28,,Juvenile,No,,,,
+Yellow-bellied Racer,5/2/2022,driving,cf,alive,no,65,,,yes,3D9.1A4FA106EC,77,62.7,male,adult,no,0,0,no,no
+Yellow-bellied Racer,5/9/2019 22:07,active search,cf,alive,n,,,,,,,,,,,,,,
+Yellow-bellied Racer,6/12/2019 15:48,driving,cf,dead,yes,,,,No,,,,,,no,,,,
+Yellow-bellied Racer,5/15/2019 17:19,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Yellow-bellied Racer,5/14/2019 16:03,driving,cf,dead,yes,,,,No,,,,,,,,,,
+Yellow-bellied Racer,5/16/2019 17:07,incidental,JS,Alive,N,,,,No,,,,,,,,,,
+Yellow-bellied Racer,5/15/2019 18:17,incidental,JS,Alive,N,,,,No,,,,,,,,,,
+Yellow-bellied Racer,6/7/2018 19:47,driving,,Alive,N,,,,,,,,,,,,,,
+Yellow-bellied Racer,7/9/2018 17:54,driving,,Alive,N,,,,,,,,,,,,,,
+Yellow-bellied Racer,6/7/2018 19:46,driving,,Alive,N,,,,,,,,,,,,,,
+Yellow-bellied Racer,9/25/2018 17:48,incidental,Cf,Alive,N,,,,,,,,,,,,,,
+Yellow-bellied Racer,7/2/2018 20:05,incidental,,Alive,N,,,,,,,,,,,,,,
