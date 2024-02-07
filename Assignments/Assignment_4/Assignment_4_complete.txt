@@ -1,0 +1,17 @@
+Create a plaintext document named “final_project_idea.txt”
+
+In it, describe your idea for a data analysis final project
+
+The project will be a species diversity and species distribution of the reptiles and amphibians found on the camp williams military base range from the years of 2019-2023,
+as well as any other relevant weight/length information found for species where the data has enough entries relevant to the species to plot.
+This will be a herpetological ecology survey and the information found from it.
+
+Also, Describe the sort of data you will use, potential sources, and what the data might look like
+
+I will be using herpetological data collected by the natural resources division of the camp williams national guard.
+
+(If you already have data, skip this task) Create fake data that simulates what your final project data set might look like. Preferrably a csv file
+
+Generate a plot (using ggplot) using either your real or fake data that shows at least one expected result
+(found in folder alongside this document)
+
