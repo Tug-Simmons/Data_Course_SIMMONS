@@ -3,6 +3,7 @@ library(ggimage)
 library(gganimate)
 library(patchwork)
 library(gapminder)
+library(magick)
 
 
 #plotting
